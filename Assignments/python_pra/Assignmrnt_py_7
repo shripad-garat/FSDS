@@ -1,0 +1,121 @@
+2022-04-27 22:37:37,932 : DEBUG : diff parser start
+2022-04-27 22:37:37,932 : DEBUG : line_lengths old: 1; new: 8
+2022-04-27 22:37:37,932 : DEBUG : -> code[replace] old[1:1] new[1:8]
+2022-04-27 22:37:37,932 : DEBUG : parse_part from 1 to 8 (to 7 in part parser)
+2022-04-27 22:37:37,932 : DEBUG : diff parser end
+2022-04-27 22:37:43,359 : DEBUG : diff parser start
+2022-04-27 22:37:43,359 : DEBUG : line_lengths old: 8; new: 8
+2022-04-27 22:37:43,362 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-04-27 22:37:43,364 : DEBUG : parse_part from 1 to 8 (to 7 in part parser)
+2022-04-27 22:37:43,364 : DEBUG : -> code[replace] old[8:8] new[8:8]
+2022-04-27 22:37:43,364 : DEBUG : diff parser end
+2022-04-27 22:38:15,157 : DEBUG : diff parser start
+2022-04-27 22:38:15,157 : DEBUG : line_lengths old: 8; new: 11
+2022-04-27 22:38:15,157 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-04-27 22:38:15,162 : DEBUG : parse_part from 1 to 11 (to 10 in part parser)
+2022-04-27 22:38:15,162 : DEBUG : -> code[replace] old[8:8] new[8:11]
+2022-04-27 22:38:15,164 : DEBUG : diff parser end
+2022-04-27 22:38:52,452 : DEBUG : diff parser start
+2022-04-27 22:38:52,452 : DEBUG : line_lengths old: 11; new: 1
+2022-04-27 22:38:52,452 : DEBUG : -> code[replace] old[1:11] new[1:1]
+2022-04-27 22:38:52,452 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2022-04-27 22:38:52,452 : DEBUG : diff parser end
+2022-04-27 22:39:23,139 : DEBUG : diff parser start
+2022-04-27 22:39:23,139 : DEBUG : line_lengths old: 1; new: 2
+2022-04-27 22:39:23,139 : DEBUG : -> code[replace] old[1:1] new[1:2]
+2022-04-27 22:39:23,139 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-04-27 22:39:23,139 : DEBUG : diff parser end
+2022-04-27 22:41:46,341 : INFO : Start executing Q1. Write a Python Program to find sum of array?
+2022-04-27 22:44:25,761 : DEBUG : diff parser start
+2022-04-27 22:44:25,761 : DEBUG : line_lengths old: 2; new: 4
+2022-04-27 22:44:25,761 : DEBUG : -> code[replace] old[1:2] new[1:4]
+2022-04-27 22:44:25,761 : DEBUG : parse_part from 1 to 4 (to 3 in part parser)
+2022-04-27 22:44:25,761 : DEBUG : diff parser end
+2022-04-27 22:47:12,601 : DEBUG : diff parser start
+2022-04-27 22:47:12,601 : DEBUG : line_lengths old: 4; new: 12
+2022-04-27 22:47:12,601 : DEBUG : -> code[equal] old[1:3] new[1:3]
+2022-04-27 22:47:12,601 : DEBUG : parse_part from 1 to 12 (to 11 in part parser)
+2022-04-27 22:47:12,601 : DEBUG : -> code[replace] old[4:4] new[4:12]
+2022-04-27 22:47:12,601 : DEBUG : diff parser end
+2022-04-27 22:47:12,701 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\typing.py
+2022-04-27 22:47:12,736 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-04-27 22:47:12,774 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\abc.py
+2022-04-27 22:47:12,781 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\abc.pyi
+2022-04-27 22:47:16,741 : DEBUG : diff parser start
+2022-04-27 22:47:16,741 : DEBUG : line_lengths old: 12; new: 12
+2022-04-27 22:47:16,741 : DEBUG : -> code[equal] old[1:11] new[1:11]
+2022-04-27 22:47:16,741 : DEBUG : parse_part from 1 to 12 (to 11 in part parser)
+2022-04-27 22:47:16,741 : DEBUG : -> code[replace] old[12:12] new[12:12]
+2022-04-27 22:47:16,741 : DEBUG : diff parser end
+2022-04-27 22:48:31,180 : INFO : Start executing Q2. Write a Python Program to find largest element in an array?
+2022-04-27 23:04:26,659 : DEBUG : diff parser start
+2022-04-27 23:04:26,659 : DEBUG : line_lengths old: 12; new: 13
+2022-04-27 23:04:26,659 : DEBUG : -> code[replace] old[1:11] new[1:12]
+2022-04-27 23:04:26,659 : DEBUG : parse_part from 1 to 13 (to 12 in part parser)
+2022-04-27 23:04:26,659 : DEBUG : -> code[equal] old[12:12] new[13:13]
+2022-04-27 23:04:26,659 : DEBUG : diff parser end
+2022-04-27 23:05:16,100 : INFO : Start executing Q3. Write a Python Program for array rotation?
+2022-04-27 23:05:16,100 : ERROR : Error ocured
+2022-04-27 23:05:37,310 : INFO : Start executing Q3. Write a Python Program for array rotation?
+2022-04-27 23:05:37,310 : ERROR : Error ocured
+2022-04-27 23:05:56,875 : INFO : Start executing Q3. Write a Python Program for array rotation?
+2022-04-27 23:05:56,883 : ERROR : Error ocured
+2022-04-27 23:06:25,675 : INFO : Start executing Q3. Write a Python Program for array rotation?
+2022-04-27 23:06:25,675 : ERROR : Error ocured
+2022-04-27 23:07:40,481 : DEBUG : diff parser start
+2022-04-27 23:07:40,481 : DEBUG : line_lengths old: 13; new: 12
+2022-04-27 23:07:40,481 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-04-27 23:07:40,486 : DEBUG : parse_part from 1 to 12 (to 11 in part parser)
+2022-04-27 23:07:40,486 : DEBUG : -> code[replace] old[6:6] new[6:6]
+2022-04-27 23:07:40,486 : DEBUG : -> code[equal] old[7:11] new[7:11]
+2022-04-27 23:07:40,486 : DEBUG : -> code[replace] old[12:13] new[12:12]
+2022-04-27 23:07:40,486 : DEBUG : diff parser end
+2022-04-27 23:07:47,048 : INFO : Start executing Q3. Write a Python Program for array rotation?
+2022-04-27 23:07:47,048 : ERROR : Error ocured
+2022-04-27 23:07:57,168 : INFO : Start executing Q3. Write a Python Program for array rotation?
+2022-04-27 23:07:57,168 : ERROR : Error ocured
+2022-04-27 23:08:28,139 : INFO : Start executing Q3. Write a Python Program for array rotation?
+2022-04-27 23:08:28,139 : ERROR : Error ocured
+2022-04-27 23:10:06,887 : INFO : Start executing Q3. Write a Python Program for array rotation?
+2022-04-27 23:10:52,184 : INFO : Start executing Q3. Write a Python Program for array rotation?
+2022-04-27 23:11:50,308 : DEBUG : diff parser start
+2022-04-27 23:11:50,308 : DEBUG : line_lengths old: 12; new: 6
+2022-04-27 23:11:50,308 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-04-27 23:11:50,318 : DEBUG : parse_part from 1 to 6 (to 5 in part parser)
+2022-04-27 23:11:50,318 : DEBUG : -> code[replace] old[6:12] new[6:6]
+2022-04-27 23:11:50,318 : DEBUG : diff parser end
+2022-04-27 23:12:05,821 : INFO : Start executing Q3. Write a Python Program for array rotation?
+2022-04-27 23:12:44,853 : INFO : Start executing Q3. Write a Python Program for array rotation?
+2022-04-27 23:12:44,853 : ERROR : Error ocured
+2022-04-27 23:12:52,905 : INFO : Start executing Q3. Write a Python Program for array rotation?
+2022-04-27 23:16:33,337 : DEBUG : diff parser start
+2022-04-27 23:16:33,338 : DEBUG : line_lengths old: 6; new: 10
+2022-04-27 23:16:33,338 : DEBUG : -> code[equal] old[1:2] new[1:2]
+2022-04-27 23:16:33,341 : DEBUG : parse_part from 1 to 10 (to 9 in part parser)
+2022-04-27 23:16:33,341 : DEBUG : -> code[replace] old[3:4] new[3:4]
+2022-04-27 23:16:33,341 : DEBUG : -> code[equal] old[5:5] new[5:5]
+2022-04-27 23:16:33,341 : DEBUG : -> code[replace] old[6:6] new[6:10]
+2022-04-27 23:16:33,341 : DEBUG : diff parser end
+2022-04-27 23:18:40,547 : DEBUG : diff parser start
+2022-04-27 23:18:40,547 : DEBUG : line_lengths old: 10; new: 3
+2022-04-27 23:18:40,547 : DEBUG : -> code[replace] old[1:10] new[1:3]
+2022-04-27 23:18:40,547 : DEBUG : parse_part from 1 to 3 (to 2 in part parser)
+2022-04-27 23:18:40,547 : DEBUG : diff parser end
+2022-04-27 23:18:42,831 : INFO : Start executing Q4. Write a Python Program to Split the array and add the first part to the end?
+2022-04-27 23:18:42,831 : ERROR : Error ocured
+2022-04-27 23:18:50,596 : INFO : Start executing Q4. Write a Python Program to Split the array and add the first part to the end?
+2022-04-27 23:30:42,536 : DEBUG : diff parser start
+2022-04-27 23:30:42,536 : DEBUG : line_lengths old: 3; new: 3
+2022-04-27 23:30:42,536 : DEBUG : -> code[equal] old[1:2] new[1:2]
+2022-04-27 23:30:42,536 : DEBUG : copy old[1:2] new[1:2]
+2022-04-27 23:30:42,536 : DEBUG : -> code[replace] old[3:3] new[3:3]
+2022-04-27 23:30:42,536 : DEBUG : parse_part from 3 to 3 (to 2 in part parser)
+2022-04-27 23:30:42,536 : DEBUG : diff parser end
+2022-04-27 23:30:53,835 : INFO : Start executing Q5. Write a Python Program to check if given array is Monotonic?
+2022-04-27 23:31:12,106 : INFO : Start executing Q5. Write a Python Program to check if given array is Monotonic?
+2022-04-27 23:32:47,786 : INFO : Start executing Q1. Write a Python Program to find sum of array?
+2022-04-27 23:32:48,859 : INFO : Start executing Q2. Write a Python Program to find largest element in an array?
+2022-04-27 23:32:49,888 : INFO : Start executing Q3. Write a Python Program for array rotation?
+2022-04-27 23:32:50,806 : INFO : Start executing Q4. Write a Python Program to Split the array and add the first part to the end?
+2022-04-27 23:32:51,553 : INFO : Start executing Q5. Write a Python Program to check if given array is Monotonic?
+2022-04-27 23:32:51,793 : INFO : Start executing Q5. Write a Python Program to check if given array is Monotonic?
