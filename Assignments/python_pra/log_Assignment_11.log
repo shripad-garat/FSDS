@@ -1,0 +1,464 @@
+2022-05-24 22:32:56,684 : DEBUG : diff parser start
+2022-05-24 22:32:56,684 : DEBUG : line_lengths old: 8; new: 8
+2022-05-24 22:32:56,684 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-05-24 22:32:56,684 : DEBUG : copy old[1:7] new[1:6]
+2022-05-24 22:32:56,684 : DEBUG : parse_part from 7 to 8 (to 7 in part parser)
+2022-05-24 22:32:56,684 : DEBUG : -> code[replace] old[8:8] new[8:8]
+2022-05-24 22:32:56,684 : DEBUG : diff parser end
+2022-05-24 22:36:37,641 : DEBUG : diff parser start
+2022-05-24 22:36:37,641 : DEBUG : line_lengths old: 8; new: 12
+2022-05-24 22:36:37,641 : DEBUG : -> code[equal] old[1:6] new[1:6]
+2022-05-24 22:36:37,641 : DEBUG : copy old[1:7] new[1:6]
+2022-05-24 22:36:37,641 : DEBUG : -> code[replace] old[7:8] new[7:12]
+2022-05-24 22:36:37,649 : DEBUG : parse_part from 7 to 12 (to 11 in part parser)
+2022-05-24 22:36:37,649 : DEBUG : diff parser end
+2022-05-24 22:36:37,915 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-05-24 22:36:38,040 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-05-24 22:36:49,157 : DEBUG : diff parser start
+2022-05-24 22:36:49,157 : DEBUG : line_lengths old: 12; new: 12
+2022-05-24 22:36:49,157 : DEBUG : -> code[equal] old[1:11] new[1:11]
+2022-05-24 22:36:49,157 : DEBUG : copy old[1:11] new[1:6]
+2022-05-24 22:36:49,166 : DEBUG : parse_part from 7 to 12 (to 11 in part parser)
+2022-05-24 22:36:49,166 : DEBUG : -> code[replace] old[12:12] new[12:12]
+2022-05-24 22:36:49,166 : DEBUG : diff parser end
+2022-05-24 22:37:03,573 : DEBUG : diff parser start
+2022-05-24 22:37:03,573 : DEBUG : line_lengths old: 12; new: 12
+2022-05-24 22:37:03,573 : DEBUG : -> code[equal] old[1:11] new[1:11]
+2022-05-24 22:37:03,573 : DEBUG : copy old[1:11] new[1:6]
+2022-05-24 22:37:03,578 : DEBUG : parse_part from 7 to 12 (to 11 in part parser)
+2022-05-24 22:37:03,578 : DEBUG : -> code[replace] old[12:12] new[12:12]
+2022-05-24 22:37:03,578 : DEBUG : diff parser end
+2022-05-24 22:37:07,828 : DEBUG : diff parser start
+2022-05-24 22:37:07,828 : DEBUG : line_lengths old: 12; new: 12
+2022-05-24 22:37:07,828 : DEBUG : -> code[equal] old[1:11] new[1:11]
+2022-05-24 22:37:07,828 : DEBUG : copy old[1:11] new[1:6]
+2022-05-24 22:37:07,843 : DEBUG : parse_part from 7 to 12 (to 11 in part parser)
+2022-05-24 22:37:07,843 : DEBUG : -> code[replace] old[12:12] new[12:12]
+2022-05-24 22:37:07,843 : DEBUG : diff parser end
+2022-05-24 22:37:39,552 : DEBUG : diff parser start
+2022-05-24 22:37:39,552 : DEBUG : line_lengths old: 12; new: 14
+2022-05-24 22:37:39,552 : DEBUG : -> code[equal] old[1:11] new[1:11]
+2022-05-24 22:37:39,552 : DEBUG : copy old[1:11] new[1:6]
+2022-05-24 22:37:39,567 : DEBUG : parse_part from 7 to 14 (to 13 in part parser)
+2022-05-24 22:37:39,567 : DEBUG : -> code[replace] old[12:12] new[12:14]
+2022-05-24 22:37:39,567 : DEBUG : diff parser end
+2022-05-24 22:38:19,027 : DEBUG : diff parser start
+2022-05-24 22:38:19,027 : DEBUG : line_lengths old: 14; new: 15
+2022-05-24 22:38:19,027 : DEBUG : -> code[equal] old[1:13] new[1:13]
+2022-05-24 22:38:19,027 : DEBUG : copy old[1:13] new[1:6]
+2022-05-24 22:38:19,043 : DEBUG : parse_part from 7 to 15 (to 14 in part parser)
+2022-05-24 22:38:19,043 : DEBUG : -> code[replace] old[14:14] new[14:15]
+2022-05-24 22:38:19,043 : DEBUG : diff parser end
+2022-05-24 22:38:19,105 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\logging\__init__.py
+2022-05-24 22:39:46,466 : DEBUG : diff parser start
+2022-05-24 22:39:46,466 : DEBUG : line_lengths old: 15; new: 2
+2022-05-24 22:39:46,466 : DEBUG : -> code[replace] old[1:15] new[1:2]
+2022-05-24 22:39:46,466 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-05-24 22:39:46,466 : DEBUG : diff parser end
+2022-05-24 22:40:01,177 : INFO : start executing the Q1. Write a Python program to find words which are greater than given length k?
+2022-05-24 22:42:05,914 : INFO : start executing the Q1. Write a Python program to find words which are greater than given length k?
+2022-05-24 22:43:30,636 : INFO : start executing the Q1. Write a Python program to find words which are greater than given length k?
+2022-05-24 22:45:07,775 : INFO : start executing the Q1. Write a Python program to find words which are greater than given length k?
+2022-05-24 22:45:29,244 : INFO : start executing the Q1. Write a Python program to find words which are greater than given length k?
+2022-05-24 22:45:33,279 : INFO : start executing the Q1. Write a Python program to find words which are greater than given length k?
+2022-05-24 22:46:13,065 : INFO : start executing the Q1. Write a Python program to find words which are greater than given length k?
+2022-05-24 22:46:38,387 : INFO : start executing the Q1. Write a Python program to find words which are greater than given length k?
+2022-05-24 22:46:38,387 : INFO : Finding words which are greater than given lenght k -->5 from the given string Hi ineuron, shripad here thank you for your support and learning
+2022-05-24 22:47:01,246 : INFO : start executing the Q1. Write a Python program to find words which are greater than given length k?
+2022-05-24 22:47:01,246 : INFO : Finding words which are greater than given lenght k -->5 from the given string Hi ineuron, shripad here thank you for your support and learning
+2022-05-24 22:47:51,450 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-05-24 22:47:51,542 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-05-24 22:49:00,474 : INFO : start executing the Q1. Write a Python program to find words which are greater than given length k?
+2022-05-24 22:49:00,474 : INFO : Finding words which are greater than given lenght k -->5 from the given string Hi ineuron, shripad here thank you for your support and learning
+2022-05-24 22:49:00,474 : INFO : Returning the words which matches the conditio : ['ineuron,', 'shripad', 'support', 'learning']
+2022-05-24 22:53:03,923 : DEBUG : diff parser start
+2022-05-24 22:53:03,923 : DEBUG : line_lengths old: 11; new: 7
+2022-05-24 22:53:03,923 : DEBUG : -> code[replace] old[1:2] new[1:2]
+2022-05-24 22:53:03,923 : DEBUG : parse_part from 1 to 7 (to 6 in part parser)
+2022-05-24 22:53:03,923 : DEBUG : -> code[equal] old[3:3] new[3:3]
+2022-05-24 22:53:03,923 : DEBUG : -> code[replace] old[4:6] new[4:5]
+2022-05-24 22:53:03,923 : DEBUG : -> code[equal] old[7:7] new[6:6]
+2022-05-24 22:53:03,923 : DEBUG : -> code[replace] old[8:11] new[7:7]
+2022-05-24 22:53:03,923 : DEBUG : diff parser end
+2022-05-24 22:53:23,448 : DEBUG : diff parser start
+2022-05-24 22:53:23,448 : DEBUG : line_lengths old: 7; new: 2
+2022-05-24 22:53:23,448 : DEBUG : -> code[replace] old[1:7] new[1:2]
+2022-05-24 22:53:23,448 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-05-24 22:53:23,448 : DEBUG : diff parser end
+2022-05-24 22:53:23,517 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\typing.py
+2022-05-24 22:53:23,548 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-05-24 22:54:44,901 : DEBUG : diff parser start
+2022-05-24 22:54:44,901 : DEBUG : line_lengths old: 2; new: 7
+2022-05-24 22:54:44,901 : DEBUG : -> code[replace] old[1:2] new[1:7]
+2022-05-24 22:54:44,901 : DEBUG : parse_part from 1 to 7 (to 6 in part parser)
+2022-05-24 22:54:44,901 : DEBUG : diff parser end
+2022-05-24 22:57:17,980 : DEBUG : diff parser start
+2022-05-24 22:57:17,980 : DEBUG : line_lengths old: 7; new: 2
+2022-05-24 22:57:17,980 : DEBUG : -> code[replace] old[1:7] new[1:2]
+2022-05-24 22:57:17,980 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-05-24 22:57:17,980 : DEBUG : diff parser end
+2022-05-24 22:57:23,299 : INFO : start executing the Q2. Write a Python program for removing i-th character from a string?
+2022-05-24 22:57:23,299 : INFO : Returning the string s which matches the conditio : Hi inuron, shripad hr thank you for your support and larning
+2022-05-24 23:05:00,739 : DEBUG : diff parser start
+2022-05-24 23:05:00,739 : DEBUG : line_lengths old: 2; new: 7
+2022-05-24 23:05:00,739 : DEBUG : -> code[replace] old[1:2] new[1:7]
+2022-05-24 23:05:00,739 : DEBUG : parse_part from 1 to 7 (to 6 in part parser)
+2022-05-24 23:05:00,739 : DEBUG : diff parser end
+2022-05-24 23:11:19,434 : INFO : start executing the Q2. Write a Python program for removing i-th character from a string?
+2022-05-24 23:11:19,481 : ERROR : 'str' object cannot be interpreted as an integer
+2022-05-24 23:11:36,413 : INFO : start executing the Q2. Write a Python program for removing i-th character from a string?
+2022-05-24 23:11:36,413 : INFO : Returning the string s which matches the conditio : Hi ineuron, shripad here thank you for your support and learning
+2022-05-25 00:57:51,445 : DEBUG : diff parser start
+2022-05-25 00:57:51,445 : DEBUG : line_lengths old: 7; new: 2
+2022-05-25 00:57:51,445 : DEBUG : -> code[replace] old[1:7] new[1:2]
+2022-05-25 00:57:51,454 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-05-25 00:57:51,454 : DEBUG : diff parser end
+2022-05-25 00:57:53,595 : INFO : Start executing the Q3. Write a Python program to split and join a string?
+2022-05-25 01:27:44,886 : DEBUG : diff parser start
+2022-05-25 01:27:44,886 : DEBUG : line_lengths old: 2; new: 9
+2022-05-25 01:27:44,886 : DEBUG : -> code[replace] old[1:2] new[1:9]
+2022-05-25 01:27:44,895 : DEBUG : parse_part from 1 to 9 (to 8 in part parser)
+2022-05-25 01:27:44,895 : DEBUG : diff parser end
+2022-05-25 01:29:07,606 : DEBUG : diff parser start
+2022-05-25 01:29:07,606 : DEBUG : line_lengths old: 9; new: 2
+2022-05-25 01:29:07,606 : DEBUG : -> code[replace] old[1:9] new[1:2]
+2022-05-25 01:29:07,606 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-05-25 01:29:07,615 : DEBUG : diff parser end
+2022-05-25 01:29:34,986 : INFO : Start executing the Q4. Write a Python to check if a given string is binary string or not?
+2022-05-25 01:29:34,986 : INFO : Start executing the Q4. Write a Python to check if a given string is binary string or not?
+2022-05-25 01:40:20,821 : DEBUG : diff parser start
+2022-05-25 01:40:20,821 : DEBUG : line_lengths old: 2; new: 12
+2022-05-25 01:40:20,821 : DEBUG : -> code[replace] old[1:2] new[1:12]
+2022-05-25 01:40:20,831 : DEBUG : parse_part from 1 to 12 (to 11 in part parser)
+2022-05-25 01:40:20,831 : DEBUG : diff parser end
+2022-05-25 01:40:24,293 : DEBUG : diff parser start
+2022-05-25 01:40:24,293 : DEBUG : line_lengths old: 12; new: 12
+2022-05-25 01:40:24,293 : DEBUG : -> code[equal] old[1:11] new[1:11]
+2022-05-25 01:40:24,293 : DEBUG : copy old[1:11] new[1:5]
+2022-05-25 01:40:24,303 : DEBUG : parse_part from 6 to 12 (to 11 in part parser)
+2022-05-25 01:40:24,303 : DEBUG : -> code[replace] old[12:12] new[12:12]
+2022-05-25 01:40:24,303 : DEBUG : diff parser end
+2022-05-25 01:40:50,766 : DEBUG : diff parser start
+2022-05-25 01:40:50,766 : DEBUG : line_lengths old: 12; new: 12
+2022-05-25 01:40:50,766 : DEBUG : -> code[equal] old[1:11] new[1:11]
+2022-05-25 01:40:50,773 : DEBUG : copy old[1:11] new[1:5]
+2022-05-25 01:40:50,776 : DEBUG : parse_part from 6 to 12 (to 11 in part parser)
+2022-05-25 01:40:50,777 : DEBUG : -> code[replace] old[12:12] new[12:12]
+2022-05-25 01:40:50,777 : DEBUG : diff parser end
+2022-05-25 01:40:54,696 : DEBUG : diff parser start
+2022-05-25 01:40:54,696 : DEBUG : line_lengths old: 12; new: 12
+2022-05-25 01:40:54,696 : DEBUG : -> code[equal] old[1:11] new[1:11]
+2022-05-25 01:40:54,696 : DEBUG : copy old[1:11] new[1:5]
+2022-05-25 01:40:54,705 : DEBUG : parse_part from 6 to 12 (to 11 in part parser)
+2022-05-25 01:40:54,705 : DEBUG : -> code[replace] old[12:12] new[12:12]
+2022-05-25 01:40:54,705 : DEBUG : diff parser end
+2022-05-25 01:43:03,777 : DEBUG : diff parser start
+2022-05-25 01:43:03,777 : DEBUG : line_lengths old: 12; new: 2
+2022-05-25 01:43:03,777 : DEBUG : -> code[replace] old[1:12] new[1:2]
+2022-05-25 01:43:03,777 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-05-25 01:43:03,777 : DEBUG : diff parser end
+2022-05-25 01:44:09,156 : DEBUG : diff parser start
+2022-05-25 01:44:09,156 : DEBUG : line_lengths old: 2; new: 7
+2022-05-25 01:44:09,156 : DEBUG : -> code[replace] old[1:2] new[1:7]
+2022-05-25 01:44:09,165 : DEBUG : parse_part from 1 to 7 (to 6 in part parser)
+2022-05-25 01:44:09,165 : DEBUG : diff parser end
+2022-05-25 01:44:41,423 : DEBUG : diff parser start
+2022-05-25 01:44:41,423 : DEBUG : line_lengths old: 7; new: 3
+2022-05-25 01:44:41,423 : DEBUG : -> code[replace] old[1:7] new[1:3]
+2022-05-25 01:44:41,423 : DEBUG : parse_part from 1 to 3 (to 2 in part parser)
+2022-05-25 01:44:41,431 : DEBUG : diff parser end
+2022-05-25 01:44:57,512 : DEBUG : diff parser start
+2022-05-25 01:44:57,512 : DEBUG : line_lengths old: 3; new: 3
+2022-05-25 01:44:57,512 : DEBUG : -> code[equal] old[1:2] new[1:2]
+2022-05-25 01:44:57,512 : DEBUG : copy old[1:2] new[1:2]
+2022-05-25 01:44:57,512 : DEBUG : -> code[replace] old[3:3] new[3:3]
+2022-05-25 01:44:57,512 : DEBUG : parse_part from 3 to 3 (to 2 in part parser)
+2022-05-25 01:44:57,512 : DEBUG : diff parser end
+2022-05-25 01:45:02,923 : INFO : Start executing Q5. Write a Python program to find uncommon words from two Strings?
+2022-05-25 02:01:17,857 : DEBUG : diff parser start
+2022-05-25 02:01:17,866 : DEBUG : line_lengths old: 3; new: 14
+2022-05-25 02:01:17,866 : DEBUG : -> code[replace] old[1:3] new[1:14]
+2022-05-25 02:01:17,871 : DEBUG : parse_part from 1 to 14 (to 13 in part parser)
+2022-05-25 02:01:17,877 : DEBUG : diff parser end
+2022-05-25 02:01:24,777 : DEBUG : diff parser start
+2022-05-25 02:01:24,777 : DEBUG : line_lengths old: 14; new: 14
+2022-05-25 02:01:24,777 : DEBUG : -> code[equal] old[1:13] new[1:13]
+2022-05-25 02:01:24,777 : DEBUG : copy old[1:13] new[1:4]
+2022-05-25 02:01:24,777 : DEBUG : parse_part from 5 to 14 (to 13 in part parser)
+2022-05-25 02:01:24,777 : DEBUG : -> code[replace] old[14:14] new[14:14]
+2022-05-25 02:01:24,777 : DEBUG : diff parser end
+2022-05-25 02:02:31,832 : DEBUG : diff parser start
+2022-05-25 02:02:31,832 : DEBUG : line_lengths old: 14; new: 2
+2022-05-25 02:02:31,832 : DEBUG : -> code[replace] old[1:14] new[1:2]
+2022-05-25 02:02:31,839 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-05-25 02:02:31,839 : DEBUG : diff parser end
+2022-05-25 02:02:36,157 : INFO : Start executing Q6. Write a Python to find all duplicate characters in string?
+2022-05-25 02:03:38,546 : DEBUG : diff parser start
+2022-05-25 02:03:38,546 : DEBUG : line_lengths old: 2; new: 9
+2022-05-25 02:03:38,546 : DEBUG : -> code[replace] old[1:2] new[1:9]
+2022-05-25 02:03:38,546 : DEBUG : parse_part from 1 to 9 (to 8 in part parser)
+2022-05-25 02:03:38,546 : DEBUG : diff parser end
+2022-05-25 02:03:41,425 : INFO : Start executing Q6. Write a Python to find all duplicate characters in string?
+2022-05-25 02:11:37,657 : DEBUG : diff parser start
+2022-05-25 02:11:37,657 : DEBUG : line_lengths old: 9; new: 10
+2022-05-25 02:11:37,657 : DEBUG : -> code[replace] old[1:4] new[1:3]
+2022-05-25 02:11:37,657 : DEBUG : parse_part from 1 to 10 (to 9 in part parser)
+2022-05-25 02:11:37,667 : DEBUG : -> code[equal] old[5:5] new[4:4]
+2022-05-25 02:11:37,667 : DEBUG : -> code[replace] old[6:6] new[5:5]
+2022-05-25 02:11:37,667 : DEBUG : -> code[equal] old[7:7] new[6:6]
+2022-05-25 02:11:37,667 : DEBUG : -> code[replace] old[8:9] new[7:10]
+2022-05-25 02:11:37,667 : DEBUG : diff parser end
+2022-05-25 02:12:06,447 : DEBUG : diff parser start
+2022-05-25 02:12:06,447 : DEBUG : line_lengths old: 10; new: 12
+2022-05-25 02:12:06,447 : DEBUG : -> code[equal] old[1:9] new[1:9]
+2022-05-25 02:12:06,447 : DEBUG : copy old[1:9] new[1:3]
+2022-05-25 02:12:06,447 : DEBUG : parse_part from 4 to 12 (to 11 in part parser)
+2022-05-25 02:12:06,447 : DEBUG : -> code[replace] old[10:10] new[10:12]
+2022-05-25 02:12:06,447 : DEBUG : diff parser end
+2022-05-25 02:12:09,980 : DEBUG : diff parser start
+2022-05-25 02:12:09,980 : DEBUG : line_lengths old: 12; new: 12
+2022-05-25 02:12:09,980 : DEBUG : -> code[equal] old[1:11] new[1:11]
+2022-05-25 02:12:09,982 : DEBUG : copy old[1:11] new[1:3]
+2022-05-25 02:12:09,983 : DEBUG : parse_part from 4 to 12 (to 11 in part parser)
+2022-05-25 02:12:09,983 : DEBUG : -> code[replace] old[12:12] new[12:12]
+2022-05-25 02:12:09,983 : DEBUG : diff parser end
+2022-05-25 02:13:02,726 : DEBUG : diff parser start
+2022-05-25 02:13:02,726 : DEBUG : line_lengths old: 12; new: 2
+2022-05-25 02:13:02,726 : DEBUG : -> code[replace] old[1:12] new[1:2]
+2022-05-25 02:13:02,726 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-05-25 02:13:02,726 : DEBUG : diff parser end
+2022-05-25 02:13:17,094 : INFO : Start executing Q7. Write a Python Program to check if a string contains any special character?
+2022-05-25 23:27:27,390 : DEBUG : diff parser start
+2022-05-25 23:27:27,390 : DEBUG : line_lengths old: 2; new: 3
+2022-05-25 23:27:27,390 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2022-05-25 23:27:27,390 : DEBUG : copy old[1:1] new[1:1]
+2022-05-25 23:27:27,390 : DEBUG : -> code[replace] old[2:2] new[2:3]
+2022-05-25 23:27:27,390 : DEBUG : parse_part from 2 to 3 (to 2 in part parser)
+2022-05-25 23:27:27,390 : DEBUG : diff parser end
+2022-05-25 23:28:07,112 : INFO : Start executing Assignment 12 of python programming 
+2022-05-25 23:37:06,798 : DEBUG : diff parser start
+2022-05-25 23:37:06,798 : DEBUG : line_lengths old: 3; new: 11
+2022-05-25 23:37:06,798 : DEBUG : -> code[replace] old[1:3] new[1:11]
+2022-05-25 23:37:06,810 : DEBUG : parse_part from 1 to 11 (to 10 in part parser)
+2022-05-25 23:37:06,810 : DEBUG : diff parser end
+2022-05-25 23:37:26,076 : DEBUG : diff parser start
+2022-05-25 23:37:26,076 : DEBUG : line_lengths old: 11; new: 14
+2022-05-25 23:37:26,076 : DEBUG : -> code[equal] old[1:10] new[1:10]
+2022-05-25 23:37:26,076 : DEBUG : copy old[1:10] new[1:3]
+2022-05-25 23:37:26,076 : DEBUG : parse_part from 4 to 14 (to 13 in part parser)
+2022-05-25 23:37:26,076 : DEBUG : -> code[replace] old[11:11] new[11:14]
+2022-05-25 23:37:26,076 : DEBUG : diff parser end
+2022-05-25 23:37:41,282 : DEBUG : diff parser start
+2022-05-25 23:37:41,282 : DEBUG : line_lengths old: 14; new: 16
+2022-05-25 23:37:41,282 : DEBUG : -> code[equal] old[1:13] new[1:13]
+2022-05-25 23:37:41,282 : DEBUG : copy old[1:13] new[1:3]
+2022-05-25 23:37:41,290 : DEBUG : parse_part from 4 to 16 (to 15 in part parser)
+2022-05-25 23:37:41,290 : DEBUG : -> code[replace] old[14:14] new[14:16]
+2022-05-25 23:37:41,290 : DEBUG : diff parser end
+2022-05-25 23:40:12,181 : DEBUG : diff parser start
+2022-05-25 23:40:12,181 : DEBUG : line_lengths old: 16; new: 6
+2022-05-25 23:40:12,181 : DEBUG : -> code[replace] old[1:16] new[1:6]
+2022-05-25 23:40:12,189 : DEBUG : parse_part from 1 to 6 (to 5 in part parser)
+2022-05-25 23:40:12,189 : DEBUG : diff parser end
+2022-05-25 23:40:15,359 : INFO : Start executing Q1. Write a Python program to Extract Unique values dictionary values?
+2022-05-25 23:44:38,955 : DEBUG : diff parser start
+2022-05-25 23:44:38,955 : DEBUG : line_lengths old: 6; new: 9
+2022-05-25 23:44:38,955 : DEBUG : -> code[replace] old[1:6] new[1:9]
+2022-05-25 23:44:38,964 : DEBUG : parse_part from 1 to 9 (to 8 in part parser)
+2022-05-25 23:44:38,964 : DEBUG : diff parser end
+2022-05-25 23:47:16,101 : INFO : Start executing Q1. Write a Python program to Extract Unique values dictionary values?
+2022-05-25 23:47:16,101 : INFO : Returning Unique values from dictionary
+2022-05-25 23:48:30,314 : DEBUG : diff parser start
+2022-05-25 23:48:30,314 : DEBUG : line_lengths old: 9; new: 6
+2022-05-25 23:48:30,314 : DEBUG : -> code[replace] old[1:9] new[1:6]
+2022-05-25 23:48:30,324 : DEBUG : parse_part from 1 to 6 (to 5 in part parser)
+2022-05-25 23:48:30,324 : DEBUG : diff parser end
+2022-05-25 23:48:31,679 : INFO : Start executing Q2. Write a Python program to find the sum of all items in a dictionary?
+2022-05-25 23:48:31,679 : INFO : Returning the sum of all values from dictionary
+2022-05-25 23:52:15,704 : DEBUG : diff parser start
+2022-05-25 23:52:15,704 : DEBUG : line_lengths old: 6; new: 3
+2022-05-25 23:52:15,704 : DEBUG : -> code[replace] old[1:6] new[1:3]
+2022-05-25 23:52:15,704 : DEBUG : parse_part from 1 to 3 (to 2 in part parser)
+2022-05-25 23:52:15,704 : DEBUG : diff parser end
+2022-05-26 00:03:59,973 : DEBUG : diff parser start
+2022-05-26 00:03:59,973 : DEBUG : line_lengths old: 3; new: 6
+2022-05-26 00:03:59,973 : DEBUG : -> code[replace] old[1:3] new[1:6]
+2022-05-26 00:03:59,981 : DEBUG : parse_part from 1 to 6 (to 5 in part parser)
+2022-05-26 00:03:59,981 : DEBUG : diff parser end
+2022-05-26 00:05:06,608 : INFO : Start executing Q3. Write a Python program to Merging two Dictionaries?
+2022-05-26 00:14:35,709 : DEBUG : diff parser start
+2022-05-26 00:14:35,709 : DEBUG : line_lengths old: 6; new: 3
+2022-05-26 00:14:35,709 : DEBUG : -> code[replace] old[1:6] new[1:3]
+2022-05-26 00:14:35,709 : DEBUG : parse_part from 1 to 3 (to 2 in part parser)
+2022-05-26 00:14:35,709 : DEBUG : diff parser end
+2022-05-26 00:28:44,495 : DEBUG : diff parser start
+2022-05-26 00:28:44,495 : DEBUG : line_lengths old: 3; new: 2
+2022-05-26 00:28:44,495 : DEBUG : -> code[replace] old[1:3] new[1:2]
+2022-05-26 00:28:44,495 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-05-26 00:28:44,505 : DEBUG : diff parser end
+2022-05-26 00:29:29,611 : INFO : Start executing Q4. Write a Python program to convert key-values list to flat dictionary?
+2022-05-30 22:53:09,381 : INFO : Start executing Assignment 12 of python programming 
+2022-05-30 22:53:09,412 : INFO : Start executing Q1. Write a Python program to Extract Unique values dictionary values?
+2022-05-30 22:53:09,412 : INFO : Returning Unique values from dictionary
+2022-05-30 22:53:09,457 : INFO : Start executing Q2. Write a Python program to find the sum of all items in a dictionary?
+2022-05-30 22:53:09,463 : INFO : Returning the sum of all values from dictionary
+2022-05-30 22:53:09,497 : INFO : Start executing Q3. Write a Python program to Merging two Dictionaries?
+2022-05-30 22:53:09,497 : INFO : Returning the Dictionari which is form by merging give two dictonary
+2022-05-30 22:53:09,540 : INFO : Start executing Q4. Write a Python program to convert key-values list to flat dictionary?
+2022-05-30 22:57:24,407 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-05-30 22:57:24,477 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-05-30 22:57:33,442 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-30 22:57:33,487 : ERROR : unsupported operand type(s) for +: 'dict' and 'dict'
+2022-05-30 22:59:07,622 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-30 22:59:07,629 : ERROR : can only concatenate str (not "int") to str
+2022-05-30 23:00:39,827 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-30 23:11:55,019 : DEBUG : diff parser start
+2022-05-30 23:11:55,019 : DEBUG : line_lengths old: 8; new: 5
+2022-05-30 23:11:55,019 : DEBUG : -> code[replace] old[1:8] new[1:5]
+2022-05-30 23:11:55,019 : DEBUG : parse_part from 1 to 5 (to 4 in part parser)
+2022-05-30 23:11:55,019 : DEBUG : diff parser end
+2022-05-30 23:12:03,681 : DEBUG : diff parser start
+2022-05-30 23:12:03,681 : DEBUG : line_lengths old: 5; new: 5
+2022-05-30 23:12:03,681 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-05-30 23:12:03,681 : DEBUG : copy old[1:4] new[1:3]
+2022-05-30 23:12:03,681 : DEBUG : parse_part from 4 to 5 (to 4 in part parser)
+2022-05-30 23:12:03,681 : DEBUG : -> code[replace] old[5:5] new[5:5]
+2022-05-30 23:12:03,681 : DEBUG : diff parser end
+2022-05-30 23:12:45,401 : DEBUG : diff parser start
+2022-05-30 23:12:45,401 : DEBUG : line_lengths old: 5; new: 6
+2022-05-30 23:12:45,401 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-05-30 23:12:45,401 : DEBUG : copy old[1:4] new[1:3]
+2022-05-30 23:12:45,401 : DEBUG : parse_part from 4 to 6 (to 5 in part parser)
+2022-05-30 23:12:45,401 : DEBUG : -> code[replace] old[5:5] new[5:6]
+2022-05-30 23:12:45,416 : DEBUG : diff parser end
+2022-05-30 23:12:58,398 : DEBUG : diff parser start
+2022-05-30 23:12:58,405 : DEBUG : line_lengths old: 6; new: 6
+2022-05-30 23:12:58,405 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-05-30 23:12:58,405 : DEBUG : copy old[1:5] new[1:3]
+2022-05-30 23:12:58,405 : DEBUG : parse_part from 4 to 6 (to 5 in part parser)
+2022-05-30 23:12:58,405 : DEBUG : -> code[replace] old[6:6] new[6:6]
+2022-05-30 23:12:58,405 : DEBUG : diff parser end
+2022-05-30 23:13:44,479 : DEBUG : diff parser start
+2022-05-30 23:13:44,479 : DEBUG : line_lengths old: 6; new: 7
+2022-05-30 23:13:44,479 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-05-30 23:13:44,479 : DEBUG : copy old[1:5] new[1:3]
+2022-05-30 23:13:44,479 : DEBUG : parse_part from 4 to 7 (to 6 in part parser)
+2022-05-30 23:13:44,482 : DEBUG : -> code[replace] old[6:6] new[6:7]
+2022-05-30 23:13:44,482 : DEBUG : diff parser end
+2022-05-30 23:13:44,568 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\typing.py
+2022-05-30 23:13:44,648 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-05-30 23:14:21,007 : DEBUG : diff parser start
+2022-05-30 23:14:21,007 : DEBUG : line_lengths old: 7; new: 8
+2022-05-30 23:14:21,007 : DEBUG : -> code[equal] old[1:6] new[1:6]
+2022-05-30 23:14:21,007 : DEBUG : copy old[1:6] new[1:3]
+2022-05-30 23:14:21,007 : DEBUG : parse_part from 4 to 8 (to 7 in part parser)
+2022-05-30 23:14:21,007 : DEBUG : -> code[replace] old[7:7] new[7:8]
+2022-05-30 23:14:21,014 : DEBUG : diff parser end
+2022-05-30 23:14:31,927 : DEBUG : diff parser start
+2022-05-30 23:14:31,927 : DEBUG : line_lengths old: 8; new: 8
+2022-05-30 23:14:31,927 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-05-30 23:14:31,927 : DEBUG : copy old[1:7] new[1:3]
+2022-05-30 23:14:31,927 : DEBUG : parse_part from 4 to 8 (to 7 in part parser)
+2022-05-30 23:14:31,927 : DEBUG : -> code[replace] old[8:8] new[8:8]
+2022-05-30 23:14:31,940 : DEBUG : diff parser end
+2022-05-30 23:14:44,609 : DEBUG : diff parser start
+2022-05-30 23:14:44,609 : DEBUG : line_lengths old: 8; new: 8
+2022-05-30 23:14:44,609 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-05-30 23:14:44,609 : DEBUG : copy old[1:7] new[1:3]
+2022-05-30 23:14:44,624 : DEBUG : parse_part from 4 to 8 (to 7 in part parser)
+2022-05-30 23:14:44,626 : DEBUG : -> code[replace] old[8:8] new[8:8]
+2022-05-30 23:14:44,626 : DEBUG : diff parser end
+2022-05-30 23:15:01,140 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-30 23:15:01,148 : ERROR : 'builtin_function_or_method' object is not subscriptable
+2022-05-30 23:16:42,779 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-30 23:17:01,396 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-30 23:17:01,396 : INFO : error: 'builtin_function_or_method' object is not subscriptable
+2022-05-30 23:17:01,404 : ERROR : 'builtin_function_or_method' object is not subscriptable
+2022-05-30 23:17:41,468 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-30 23:17:41,468 : INFO : error: 'builtin_function_or_method' object is not subscriptable
+2022-05-30 23:17:41,476 : ERROR : 'builtin_function_or_method' object is not subscriptable
+2022-05-30 23:18:24,845 : DEBUG : diff parser start
+2022-05-30 23:18:24,845 : DEBUG : line_lengths old: 8; new: 5
+2022-05-30 23:18:24,845 : DEBUG : -> code[replace] old[1:8] new[1:5]
+2022-05-30 23:18:24,856 : DEBUG : parse_part from 1 to 5 (to 4 in part parser)
+2022-05-30 23:18:24,856 : DEBUG : diff parser end
+2022-05-30 23:20:15,674 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-30 23:23:40,864 : DEBUG : diff parser start
+2022-05-30 23:23:40,864 : DEBUG : line_lengths old: 5; new: 5
+2022-05-30 23:23:40,864 : DEBUG : -> code[replace] old[1:5] new[1:5]
+2022-05-30 23:23:40,864 : DEBUG : parse_part from 1 to 5 (to 4 in part parser)
+2022-05-30 23:23:40,876 : DEBUG : diff parser end
+2022-05-30 23:25:36,145 : DEBUG : diff parser start
+2022-05-30 23:25:36,147 : DEBUG : line_lengths old: 5; new: 4
+2022-05-30 23:25:36,147 : DEBUG : -> code[replace] old[1:5] new[1:4]
+2022-05-30 23:25:36,147 : DEBUG : parse_part from 1 to 4 (to 3 in part parser)
+2022-05-30 23:25:36,147 : DEBUG : diff parser end
+2022-05-30 23:25:40,432 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-30 23:25:40,432 : INFO : error: dictionary update sequence element #0 has length 1; 2 is required
+2022-05-30 23:25:40,432 : ERROR : dictionary update sequence element #0 has length 1; 2 is required
+2022-05-30 23:26:11,869 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-30 23:26:11,869 : INFO : error: 'dict' object has no attribute 'item'
+2022-05-30 23:26:11,869 : ERROR : 'dict' object has no attribute 'item'
+2022-05-30 23:26:29,293 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-30 23:26:29,293 : INFO : error: OrderedDict() missing 1 required positional argument: 'i'
+2022-05-30 23:26:29,293 : ERROR : OrderedDict() missing 1 required positional argument: 'i'
+2022-05-30 23:27:22,636 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-30 23:27:22,636 : INFO : error: OrderedDict() missing 1 required positional argument: 'i'
+2022-05-30 23:27:22,636 : ERROR : OrderedDict() missing 1 required positional argument: 'i'
+2022-05-30 23:27:47,319 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-30 23:27:49,025 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-30 23:27:49,025 : INFO : error: OrderedDict() missing 1 required positional argument: 'i'
+2022-05-30 23:27:49,025 : ERROR : OrderedDict() missing 1 required positional argument: 'i'
+2022-05-30 23:28:00,896 : INFO : Start executing Assignment 12 of python programming 
+2022-05-30 23:28:00,928 : INFO : Start executing Q1. Write a Python program to Extract Unique values dictionary values?
+2022-05-30 23:28:00,936 : INFO : Returning Unique values from dictionary
+2022-05-30 23:28:01,001 : INFO : Start executing Q2. Write a Python program to find the sum of all items in a dictionary?
+2022-05-30 23:28:01,001 : INFO : Returning the sum of all values from dictionary
+2022-05-30 23:28:01,039 : INFO : Start executing Q3. Write a Python program to Merging two Dictionaries?
+2022-05-30 23:28:01,039 : INFO : Returning the Dictionari which is form by merging give two dictonary
+2022-05-30 23:28:01,065 : INFO : Start executing Q4. Write a Python program to convert key-values list to flat dictionary?
+2022-05-30 23:28:01,105 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-30 23:28:01,144 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-30 23:28:01,144 : INFO : error: name 'OrderedDict' is not defined
+2022-05-30 23:28:01,144 : ERROR : name 'OrderedDict' is not defined
+2022-05-30 23:28:28,698 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-31 00:04:49,315 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-05-31 00:04:50,197 : INFO : Start executing Q6. Write a Python program to check order of character in string using OrderedDict()?
+2022-05-31 00:07:30,799 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-05-31 00:07:30,876 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-05-31 00:07:32,330 : DEBUG : diff parser start
+2022-05-31 00:07:32,330 : DEBUG : line_lengths old: 12; new: 12
+2022-05-31 00:07:32,330 : DEBUG : -> code[equal] old[1:11] new[1:11]
+2022-05-31 00:07:32,330 : DEBUG : copy old[1:11] new[1:6]
+2022-05-31 00:07:32,330 : DEBUG : parse_part from 7 to 12 (to 11 in part parser)
+2022-05-31 00:07:32,330 : DEBUG : -> code[replace] old[12:12] new[12:12]
+2022-05-31 00:07:32,330 : DEBUG : diff parser end
+2022-05-31 00:07:32,455 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\collections\__init__.py
+2022-05-31 00:07:32,486 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\collections\__init__.pyi
+2022-05-31 00:07:33,839 : DEBUG : diff parser start
+2022-05-31 00:07:33,839 : DEBUG : line_lengths old: 12; new: 12
+2022-05-31 00:07:33,839 : DEBUG : -> code[equal] old[1:11] new[1:11]
+2022-05-31 00:07:33,839 : DEBUG : copy old[1:11] new[1:6]
+2022-05-31 00:07:33,846 : DEBUG : parse_part from 7 to 12 (to 11 in part parser)
+2022-05-31 00:07:33,846 : DEBUG : -> code[replace] old[12:12] new[12:12]
+2022-05-31 00:07:33,846 : DEBUG : diff parser end
+2022-05-31 00:12:46,114 : DEBUG : diff parser start
+2022-05-31 00:12:46,114 : DEBUG : line_lengths old: 12; new: 4
+2022-05-31 00:12:46,114 : DEBUG : -> code[replace] old[1:12] new[1:4]
+2022-05-31 00:12:46,114 : DEBUG : parse_part from 1 to 4 (to 3 in part parser)
+2022-05-31 00:12:46,114 : DEBUG : diff parser end
+2022-05-31 00:12:48,347 : INFO : Start executing Q7. Write a Python program to sort Python Dictionaries by Key or Value?
+2022-05-31 00:13:36,903 : INFO : Start executing Q7. Write a Python program to sort Python Dictionaries by Key or Value?
+2022-05-31 00:13:47,958 : INFO : Start executing Q7. Write a Python program to sort Python Dictionaries by Key or Value?
+2022-05-31 00:13:57,156 : INFO : Start executing Q7. Write a Python program to sort Python Dictionaries by Key or Value?
+2022-06-01 00:33:00,238 : INFO : Start executing Assignment 12 of python programming 
+2022-06-01 00:33:00,266 : INFO : Start executing Q1. Write a Python program to Extract Unique values dictionary values?
+2022-06-01 00:33:00,266 : INFO : Returning Unique values from dictionary
+2022-06-01 00:33:00,296 : INFO : Start executing Q2. Write a Python program to find the sum of all items in a dictionary?
+2022-06-01 00:33:00,297 : INFO : Returning the sum of all values from dictionary
+2022-06-01 00:33:00,330 : INFO : Start executing Q3. Write a Python program to Merging two Dictionaries?
+2022-06-01 00:33:00,330 : INFO : Returning the Dictionari which is form by merging give two dictonary
+2022-06-01 00:33:00,358 : INFO : Start executing Q4. Write a Python program to convert key-values list to flat dictionary?
+2022-06-01 00:33:00,389 : INFO : Start executing Q5. Write a Python program to insertion at the beginning in OrderedDict?
+2022-06-01 00:33:00,419 : INFO : Start executing Q6. Write a Python program to check order of character in string using OrderedDict()?
+2022-06-01 00:33:00,446 : INFO : Start executing Q7. Write a Python program to sort Python Dictionaries by Key or Value?

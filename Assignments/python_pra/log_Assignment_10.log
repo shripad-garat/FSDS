@@ -1,0 +1,462 @@
+2022-05-10 22:13:04,556 : DEBUG : diff parser start
+2022-05-10 22:13:04,556 : DEBUG : line_lengths old: 2; new: 5
+2022-05-10 22:13:04,556 : DEBUG : -> code[replace] old[1:2] new[1:5]
+2022-05-10 22:13:04,556 : DEBUG : parse_part from 1 to 5 (to 4 in part parser)
+2022-05-10 22:13:04,556 : DEBUG : diff parser end
+2022-05-10 22:13:29,365 : DEBUG : diff parser start
+2022-05-10 22:13:29,365 : DEBUG : line_lengths old: 5; new: 1
+2022-05-10 22:13:29,366 : DEBUG : -> code[replace] old[1:5] new[1:1]
+2022-05-10 22:13:29,366 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2022-05-10 22:13:29,366 : DEBUG : diff parser end
+2022-05-10 22:13:33,367 : INFO : Start executing Q1. Write a Python program to find sum of elements in list?
+2022-05-10 22:15:36,430 : DEBUG : diff parser start
+2022-05-10 22:15:36,430 : DEBUG : line_lengths old: 1; new: 5
+2022-05-10 22:15:36,430 : DEBUG : -> code[replace] old[1:1] new[1:5]
+2022-05-10 22:15:36,430 : DEBUG : parse_part from 1 to 5 (to 4 in part parser)
+2022-05-10 22:15:36,430 : DEBUG : diff parser end
+2022-05-10 22:19:15,892 : DEBUG : diff parser start
+2022-05-10 22:19:15,892 : DEBUG : line_lengths old: 5; new: 11
+2022-05-10 22:19:15,892 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-05-10 22:19:15,892 : DEBUG : copy old[1:4] new[1:2]
+2022-05-10 22:19:15,892 : DEBUG : parse_part from 3 to 11 (to 10 in part parser)
+2022-05-10 22:19:15,892 : DEBUG : -> code[replace] old[5:5] new[5:11]
+2022-05-10 22:19:15,892 : DEBUG : diff parser end
+2022-05-10 22:20:07,184 : DEBUG : diff parser start
+2022-05-10 22:20:07,184 : DEBUG : line_lengths old: 11; new: 15
+2022-05-10 22:20:07,184 : DEBUG : -> code[equal] old[1:10] new[1:10]
+2022-05-10 22:20:07,184 : DEBUG : copy old[1:10] new[1:2]
+2022-05-10 22:20:07,184 : DEBUG : parse_part from 3 to 15 (to 14 in part parser)
+2022-05-10 22:20:07,187 : DEBUG : -> code[replace] old[11:11] new[11:15]
+2022-05-10 22:20:07,187 : DEBUG : diff parser end
+2022-05-10 22:20:52,013 : DEBUG : diff parser start
+2022-05-10 22:20:52,013 : DEBUG : line_lengths old: 15; new: 2
+2022-05-10 22:20:52,013 : DEBUG : -> code[replace] old[1:15] new[1:2]
+2022-05-10 22:20:52,013 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-05-10 22:20:52,013 : DEBUG : diff parser end
+2022-05-10 22:20:55,889 : INFO : Start executing Q1. Write a Python program to find sum of elements in list?
+2022-05-10 22:23:06,837 : DEBUG : diff parser start
+2022-05-10 22:23:06,837 : DEBUG : line_lengths old: 2; new: 2
+2022-05-10 22:23:06,838 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2022-05-10 22:23:06,838 : DEBUG : copy old[1:1] new[1:1]
+2022-05-10 22:23:06,838 : DEBUG : -> code[replace] old[2:2] new[2:2]
+2022-05-10 22:23:06,838 : DEBUG : parse_part from 2 to 2 (to 1 in part parser)
+2022-05-10 22:23:06,838 : DEBUG : diff parser end
+2022-05-10 22:23:08,301 : INFO : Start executing Q2. Write a Python program to Multiply all numbers in the list?
+2022-05-10 22:29:39,419 : DEBUG : diff parser start
+2022-05-10 22:29:39,419 : DEBUG : line_lengths old: 2; new: 2
+2022-05-10 22:29:39,419 : DEBUG : -> code[replace] old[1:2] new[1:2]
+2022-05-10 22:29:39,419 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-05-10 22:29:39,419 : DEBUG : diff parser end
+2022-05-10 22:29:58,562 : INFO : Start executing Q3. Write a Python program to find smallest number in a list?
+2022-05-10 22:57:08,426 : INFO : Start executing Q4. Write a Python program to find largest number in a list?
+2022-05-12 21:02:52,140 : INFO : Start executing Q1. Write a Python program to find sum of elements in list?
+2022-05-12 21:02:52,168 : INFO : Start executing Q2. Write a Python program to Multiply all numbers in the list?
+2022-05-12 21:02:52,194 : INFO : Start executing Q3. Write a Python program to find smallest number in a list?
+2022-05-12 21:02:52,227 : INFO : Start executing Q4. Write a Python program to find largest number in a list?
+2022-05-12 21:03:01,513 : INFO : Start executing Q1. Write a Python program to find sum of elements in list?
+2022-05-12 21:03:01,544 : INFO : Start executing Q2. Write a Python program to Multiply all numbers in the list?
+2022-05-12 21:03:01,568 : INFO : Start executing Q3. Write a Python program to find smallest number in a list?
+2022-05-12 21:03:01,591 : INFO : Start executing Q4. Write a Python program to find largest number in a list?
+2022-05-12 21:06:26,977 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-05-12 21:06:27,021 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-05-12 21:06:32,094 : INFO : Start executing Q5. Write a Python program to find second largest number in a list?
+2022-05-12 21:07:07,450 : DEBUG : diff parser start
+2022-05-12 21:07:07,450 : DEBUG : line_lengths old: 2; new: 15
+2022-05-12 21:07:07,450 : DEBUG : -> code[replace] old[1:2] new[1:15]
+2022-05-12 21:07:07,455 : DEBUG : parse_part from 1 to 15 (to 14 in part parser)
+2022-05-12 21:07:07,456 : DEBUG : diff parser end
+2022-05-12 21:07:07,698 : DEBUG : diff parser start
+2022-05-12 21:07:07,699 : DEBUG : line_lengths old: 15; new: 15
+2022-05-12 21:07:07,699 : DEBUG : -> code[equal] old[1:14] new[1:14]
+2022-05-12 21:07:07,700 : DEBUG : copy old[1:14] new[1:2]
+2022-05-12 21:07:07,703 : DEBUG : parse_part from 3 to 15 (to 14 in part parser)
+2022-05-12 21:07:07,703 : DEBUG : -> code[replace] old[15:15] new[15:15]
+2022-05-12 21:07:07,703 : DEBUG : diff parser end
+2022-05-12 21:07:24,162 : DEBUG : diff parser start
+2022-05-12 21:07:24,163 : DEBUG : line_lengths old: 15; new: 16
+2022-05-12 21:07:24,163 : DEBUG : -> code[equal] old[1:14] new[1:14]
+2022-05-12 21:07:24,163 : DEBUG : copy old[1:14] new[1:2]
+2022-05-12 21:07:24,168 : DEBUG : parse_part from 3 to 16 (to 15 in part parser)
+2022-05-12 21:07:24,169 : DEBUG : -> code[replace] old[15:15] new[15:16]
+2022-05-12 21:07:24,169 : DEBUG : diff parser end
+2022-05-12 21:07:30,334 : INFO : Start executing Q5. Write a Python program to find second largest number in a list?
+2022-05-12 21:10:03,730 : DEBUG : diff parser start
+2022-05-12 21:10:03,731 : DEBUG : line_lengths old: 16; new: 8
+2022-05-12 21:10:03,731 : DEBUG : -> code[replace] old[1:2] new[1:2]
+2022-05-12 21:10:03,734 : DEBUG : parse_part from 1 to 8 (to 7 in part parser)
+2022-05-12 21:10:03,735 : DEBUG : -> code[equal] old[3:7] new[3:7]
+2022-05-12 21:10:03,735 : DEBUG : -> code[replace] old[8:16] new[8:8]
+2022-05-12 21:10:03,735 : DEBUG : diff parser end
+2022-05-12 21:14:27,543 : INFO : Start executing Q6. Write a Python program to find N largest elements from a list?
+2022-05-12 21:14:27,544 : ERROR : Error ocured
+2022-05-12 21:14:27,544 : INFO : 'NoneType' object is not subscriptable
+2022-05-12 21:15:33,846 : INFO : Start executing Q6. Write a Python program to find N largest elements from a list?
+2022-05-12 21:15:33,847 : ERROR : Error ocured
+2022-05-12 21:15:33,848 : INFO : 'NoneType' object is not subscriptable
+2022-05-12 21:17:36,038 : INFO : Start executing Q6. Write a Python program to find N largest elements from a list?
+2022-05-12 21:17:49,134 : INFO : Start executing Q6. Write a Python program to find N largest elements from a list?
+2022-05-12 21:23:07,178 : DEBUG : diff parser start
+2022-05-12 21:23:07,178 : DEBUG : line_lengths old: 8; new: 2
+2022-05-12 21:23:07,179 : DEBUG : -> code[replace] old[1:8] new[1:2]
+2022-05-12 21:23:07,179 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-05-12 21:23:07,179 : DEBUG : diff parser end
+2022-05-12 21:23:10,759 : INFO : Start executing Q7. Write a Python program to print even numbers in a list?
+2022-05-12 21:25:10,228 : DEBUG : diff parser start
+2022-05-12 21:25:10,228 : DEBUG : line_lengths old: 2; new: 2
+2022-05-12 21:25:10,229 : DEBUG : -> code[replace] old[1:2] new[1:2]
+2022-05-12 21:25:10,232 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-05-12 21:25:10,232 : DEBUG : diff parser end
+2022-05-12 21:25:14,297 : INFO : Start executing Q8. Write a Python program to print odd numbers in a List?
+2022-05-13 11:13:49,761 : DEBUG : diff parser start
+2022-05-13 11:13:49,761 : DEBUG : line_lengths old: 2; new: 10
+2022-05-13 11:13:49,761 : DEBUG : -> code[replace] old[1:2] new[1:10]
+2022-05-13 11:13:49,761 : DEBUG : parse_part from 1 to 10 (to 9 in part parser)
+2022-05-13 11:13:49,761 : DEBUG : diff parser end
+2022-05-13 11:13:49,828 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\typing.py
+2022-05-13 11:13:49,844 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-05-13 11:13:49,890 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\abc.py
+2022-05-13 11:13:49,890 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\abc.pyi
+2022-05-13 11:15:34,520 : DEBUG : diff parser start
+2022-05-13 11:15:34,520 : DEBUG : line_lengths old: 10; new: 10
+2022-05-13 11:15:34,520 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-05-13 11:15:34,520 : DEBUG : copy old[1:9] new[1:2]
+2022-05-13 11:15:34,528 : DEBUG : parse_part from 3 to 10 (to 9 in part parser)
+2022-05-13 11:15:34,528 : DEBUG : -> code[replace] old[8:10] new[8:10]
+2022-05-13 11:15:34,528 : DEBUG : diff parser end
+2022-05-13 11:15:38,905 : DEBUG : diff parser start
+2022-05-13 11:15:38,905 : DEBUG : line_lengths old: 10; new: 10
+2022-05-13 11:15:38,905 : DEBUG : -> code[equal] old[1:9] new[1:9]
+2022-05-13 11:15:38,905 : DEBUG : copy old[1:9] new[1:2]
+2022-05-13 11:15:38,905 : DEBUG : parse_part from 3 to 10 (to 9 in part parser)
+2022-05-13 11:15:38,905 : DEBUG : -> code[replace] old[10:10] new[10:10]
+2022-05-13 11:15:38,905 : DEBUG : diff parser end
+2022-05-13 11:17:13,366 : DEBUG : diff parser start
+2022-05-13 11:17:13,366 : DEBUG : line_lengths old: 10; new: 2
+2022-05-13 11:17:13,366 : DEBUG : -> code[replace] old[1:10] new[1:2]
+2022-05-13 11:17:13,366 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-05-13 11:17:13,374 : DEBUG : diff parser end
+2022-05-13 11:17:22,954 : INFO : Start executingQ9. Write a Python program to Remove empty List from List
+2022-05-13 11:17:39,546 : INFO : Start executingQ9. Write a Python program to Remove empty List from List
+2022-05-13 11:22:53,830 : DEBUG : diff parser start
+2022-05-13 11:22:53,830 : DEBUG : line_lengths old: 2; new: 9
+2022-05-13 11:22:53,830 : DEBUG : -> code[replace] old[1:2] new[1:9]
+2022-05-13 11:22:53,831 : DEBUG : parse_part from 1 to 9 (to 8 in part parser)
+2022-05-13 11:22:53,831 : DEBUG : diff parser end
+2022-05-13 11:22:56,494 : DEBUG : diff parser start
+2022-05-13 11:22:56,494 : DEBUG : line_lengths old: 9; new: 9
+2022-05-13 11:22:56,494 : DEBUG : -> code[equal] old[1:8] new[1:8]
+2022-05-13 11:22:56,495 : DEBUG : copy old[1:8] new[1:2]
+2022-05-13 11:22:56,496 : DEBUG : parse_part from 3 to 9 (to 8 in part parser)
+2022-05-13 11:22:56,496 : DEBUG : -> code[replace] old[9:9] new[9:9]
+2022-05-13 11:22:56,496 : DEBUG : diff parser end
+2022-05-13 11:27:36,455 : DEBUG : diff parser start
+2022-05-13 11:27:36,455 : DEBUG : line_lengths old: 9; new: 2
+2022-05-13 11:27:36,455 : DEBUG : -> code[replace] old[1:9] new[1:2]
+2022-05-13 11:27:36,456 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-05-13 11:27:36,456 : DEBUG : diff parser end
+2022-05-13 11:27:45,187 : INFO : Start executing Q10. Write a Python program to Cloning or Copying a list?
+2022-05-13 11:54:47,698 : DEBUG : diff parser start
+2022-05-13 11:54:47,698 : DEBUG : line_lengths old: 2; new: 10
+2022-05-13 11:54:47,698 : DEBUG : -> code[replace] old[1:2] new[1:10]
+2022-05-13 11:54:47,699 : DEBUG : parse_part from 1 to 10 (to 9 in part parser)
+2022-05-13 11:54:47,700 : DEBUG : diff parser end
+2022-05-13 11:57:35,277 : DEBUG : diff parser start
+2022-05-13 11:57:35,277 : DEBUG : line_lengths old: 10; new: 2
+2022-05-13 11:57:35,277 : DEBUG : -> code[replace] old[1:10] new[1:2]
+2022-05-13 11:57:35,277 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-05-13 11:57:35,277 : DEBUG : diff parser end
+2022-05-13 11:57:39,605 : INFO : Start executing Q11. Write a Python program to Count occurrences of an element in a list?
+2022-05-13 12:01:23,701 : INFO : Start executing Q3. Write a Python program to find smallest number in a list?
+2022-05-13 12:02:46,939 : INFO : Start executing Q4. Write a Python program to find largest number in a list?
+2022-05-13 12:04:26,125 : INFO : Start executing Q5. Write a Python program to find second largest number in a list?
+2022-05-13 12:06:03,125 : INFO : Start executing Q6. Write a Python program to find N largest elements from a list?
+2022-05-13 12:07:09,492 : INFO : Start executing Q7. Write a Python program to print even numbers in a list?
+2022-05-13 12:07:57,092 : INFO : Start executing Q8. Write a Python program to print odd numbers in a List?
+2022-05-13 12:10:58,772 : INFO : Start executingQ9. Write a Python program to Remove empty List from List
+2022-05-13 12:11:51,022 : INFO : Start executing Q10. Write a Python program to Cloning or Copying a list?
+2022-05-13 12:13:03,198 : INFO : Start executing Q11. Write a Python program to Count occurrences of an element in a list?
+2022-05-13 12:21:40,014 : INFO : Start executing Q1. Write a Python program to find sum of elements in list?
+2022-05-13 12:21:40,047 : INFO : Start executing Q2. Write a Python program to Multiply all numbers in the list?
+2022-05-13 12:21:40,079 : INFO : Start executing Q3. Write a Python program to find smallest number in a list?
+2022-05-13 12:21:40,106 : INFO : Start executing Q4. Write a Python program to find largest number in a list?
+2022-05-13 12:21:40,137 : INFO : Start executing Q5. Write a Python program to find second largest number in a list?
+2022-05-13 12:21:40,169 : INFO : Start executing Q6. Write a Python program to find N largest elements from a list?
+2022-05-13 12:21:40,215 : INFO : Start executing Q7. Write a Python program to print even numbers in a list?
+2022-05-13 12:21:40,246 : INFO : Start executing Q8. Write a Python program to print odd numbers in a List?
+2022-05-13 12:21:40,277 : INFO : Start executingQ9. Write a Python program to Remove empty List from List
+2022-05-13 12:21:40,308 : INFO : Start executing Q10. Write a Python program to Cloning or Copying a list?
+2022-05-13 12:21:40,339 : INFO : Start executing Q11. Write a Python program to Count occurrences of an element in a list?
+2022-05-31 23:59:05,499 : DEBUG : diff parser start
+2022-05-31 23:59:05,499 : DEBUG : line_lengths old: 2; new: 8
+2022-05-31 23:59:05,499 : DEBUG : -> code[replace] old[1:2] new[1:8]
+2022-05-31 23:59:05,515 : DEBUG : parse_part from 1 to 8 (to 7 in part parser)
+2022-05-31 23:59:05,515 : DEBUG : diff parser end
+2022-05-31 23:59:05,600 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\typing.py
+2022-05-31 23:59:05,615 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-06-01 00:14:09,556 : DEBUG : diff parser start
+2022-06-01 00:14:09,556 : DEBUG : line_lengths old: 8; new: 10
+2022-06-01 00:14:09,556 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-06-01 00:14:09,556 : DEBUG : copy old[1:7] new[1:6]
+2022-06-01 00:14:09,556 : DEBUG : parse_part from 7 to 10 (to 9 in part parser)
+2022-06-01 00:14:09,556 : DEBUG : -> code[replace] old[8:8] new[8:10]
+2022-06-01 00:14:09,556 : DEBUG : diff parser end
+2022-06-01 00:21:07,479 : DEBUG : diff parser start
+2022-06-01 00:21:07,479 : DEBUG : line_lengths old: 10; new: 13
+2022-06-01 00:21:07,479 : DEBUG : -> code[equal] old[1:9] new[1:9]
+2022-06-01 00:21:07,479 : DEBUG : copy old[1:9] new[1:6]
+2022-06-01 00:21:07,479 : DEBUG : parse_part from 7 to 13 (to 12 in part parser)
+2022-06-01 00:21:07,479 : DEBUG : -> code[replace] old[10:10] new[10:13]
+2022-06-01 00:21:07,479 : DEBUG : diff parser end
+2022-06-01 00:21:10,003 : DEBUG : diff parser start
+2022-06-01 00:21:10,003 : DEBUG : line_lengths old: 13; new: 13
+2022-06-01 00:21:10,003 : DEBUG : -> code[equal] old[1:12] new[1:12]
+2022-06-01 00:21:10,003 : DEBUG : copy old[1:12] new[1:6]
+2022-06-01 00:21:10,006 : DEBUG : parse_part from 7 to 13 (to 12 in part parser)
+2022-06-01 00:21:10,006 : DEBUG : -> code[replace] old[13:13] new[13:13]
+2022-06-01 00:21:10,006 : DEBUG : diff parser end
+2022-06-01 00:21:16,619 : DEBUG : diff parser start
+2022-06-01 00:21:16,619 : DEBUG : line_lengths old: 13; new: 13
+2022-06-01 00:21:16,619 : DEBUG : -> code[equal] old[1:12] new[1:12]
+2022-06-01 00:21:16,619 : DEBUG : copy old[1:12] new[1:6]
+2022-06-01 00:21:16,629 : DEBUG : parse_part from 7 to 13 (to 12 in part parser)
+2022-06-01 00:21:16,630 : DEBUG : -> code[replace] old[13:13] new[13:13]
+2022-06-01 00:21:16,630 : DEBUG : diff parser end
+2022-06-01 00:29:19,508 : DEBUG : diff parser start
+2022-06-01 00:29:19,508 : DEBUG : line_lengths old: 13; new: 15
+2022-06-01 00:29:19,508 : DEBUG : -> code[equal] old[1:12] new[1:12]
+2022-06-01 00:29:19,508 : DEBUG : copy old[1:12] new[1:6]
+2022-06-01 00:29:19,508 : DEBUG : parse_part from 7 to 15 (to 14 in part parser)
+2022-06-01 00:29:19,508 : DEBUG : -> code[replace] old[13:13] new[13:15]
+2022-06-01 00:29:19,523 : DEBUG : diff parser end
+2022-06-01 00:33:49,777 : DEBUG : diff parser start
+2022-06-01 00:33:49,777 : DEBUG : line_lengths old: 15; new: 1
+2022-06-01 00:33:49,777 : DEBUG : -> code[replace] old[1:15] new[1:1]
+2022-06-01 00:33:49,777 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2022-06-01 00:33:49,777 : DEBUG : diff parser end
+2022-06-01 00:34:06,569 : INFO : Start Executing Question 1
+2022-06-01 00:34:15,484 : INFO : Error: name 'join' is not defined
+2022-06-01 00:34:15,485 : ERROR : name 'join' is not defined
+2022-06-01 00:34:38,745 : INFO : Start Executing Question 1
+2022-06-01 00:35:13,333 : INFO : Start Executing Question 1
+2022-06-01 00:36:41,964 : INFO : Start Executing Question 1
+2022-06-01 00:41:56,609 : INFO : Start Executing Question 1
+2022-06-01 00:42:32,602 : INFO : Start Executing Question 1
+2022-06-01 00:57:48,159 : INFO : Start Executing Question 1
+2022-06-01 01:08:15,359 : INFO : Start Executing Question 1
+2022-06-01 01:08:37,693 : INFO : Start Executing Question 1
+2022-06-01 01:09:34,831 : INFO : Start Executing Question 1
+2022-06-01 23:01:32,264 : DEBUG : diff parser start
+2022-06-01 23:01:32,280 : DEBUG : line_lengths old: 1; new: 10
+2022-06-01 23:01:32,280 : DEBUG : -> code[replace] old[1:1] new[1:10]
+2022-06-01 23:01:32,293 : DEBUG : parse_part from 1 to 10 (to 9 in part parser)
+2022-06-01 23:01:32,293 : DEBUG : diff parser end
+2022-06-01 23:02:44,872 : DEBUG : diff parser start
+2022-06-01 23:02:44,872 : DEBUG : line_lengths old: 10; new: 13
+2022-06-01 23:02:44,872 : DEBUG : -> code[equal] old[1:9] new[1:9]
+2022-06-01 23:02:44,872 : DEBUG : copy old[1:9] new[1:4]
+2022-06-01 23:02:44,872 : DEBUG : parse_part from 5 to 13 (to 12 in part parser)
+2022-06-01 23:02:44,872 : DEBUG : -> code[replace] old[10:10] new[10:13]
+2022-06-01 23:02:44,872 : DEBUG : diff parser end
+2022-06-01 23:02:49,191 : DEBUG : diff parser start
+2022-06-01 23:02:49,191 : DEBUG : line_lengths old: 13; new: 13
+2022-06-01 23:02:49,191 : DEBUG : -> code[equal] old[1:12] new[1:12]
+2022-06-01 23:02:49,192 : DEBUG : copy old[1:12] new[1:4]
+2022-06-01 23:02:49,192 : DEBUG : parse_part from 5 to 13 (to 12 in part parser)
+2022-06-01 23:02:49,192 : DEBUG : -> code[replace] old[13:13] new[13:13]
+2022-06-01 23:02:49,192 : DEBUG : diff parser end
+2022-06-01 23:04:19,570 : DEBUG : diff parser start
+2022-06-01 23:04:19,570 : DEBUG : line_lengths old: 13; new: 3
+2022-06-01 23:04:19,570 : DEBUG : -> code[replace] old[1:13] new[1:3]
+2022-06-01 23:04:19,570 : DEBUG : parse_part from 1 to 3 (to 2 in part parser)
+2022-06-01 23:04:19,570 : DEBUG : diff parser end
+2022-06-01 23:04:21,008 : INFO : Start Executing Question 2
+2022-06-01 23:09:17,323 : DEBUG : diff parser start
+2022-06-01 23:09:17,323 : DEBUG : line_lengths old: 3; new: 4
+2022-06-01 23:09:17,323 : DEBUG : -> code[replace] old[1:3] new[1:4]
+2022-06-01 23:09:17,323 : DEBUG : parse_part from 1 to 4 (to 3 in part parser)
+2022-06-01 23:09:17,323 : DEBUG : diff parser end
+2022-06-01 23:10:28,521 : DEBUG : diff parser start
+2022-06-01 23:10:28,521 : DEBUG : line_lengths old: 4; new: 7
+2022-06-01 23:10:28,521 : DEBUG : -> code[equal] old[1:3] new[1:3]
+2022-06-01 23:10:28,521 : DEBUG : copy old[1:3] new[1:3]
+2022-06-01 23:10:28,521 : DEBUG : -> code[replace] old[4:4] new[4:7]
+2022-06-01 23:10:28,521 : DEBUG : parse_part from 4 to 7 (to 6 in part parser)
+2022-06-01 23:10:28,521 : DEBUG : diff parser end
+2022-06-01 23:10:46,211 : DEBUG : diff parser start
+2022-06-01 23:10:46,227 : DEBUG : line_lengths old: 7; new: 7
+2022-06-01 23:10:46,227 : DEBUG : -> code[equal] old[1:6] new[1:6]
+2022-06-01 23:10:46,227 : DEBUG : copy old[1:6] new[1:4]
+2022-06-01 23:10:46,227 : DEBUG : parse_part from 5 to 7 (to 6 in part parser)
+2022-06-01 23:10:46,227 : DEBUG : -> code[replace] old[7:7] new[7:7]
+2022-06-01 23:10:46,227 : DEBUG : diff parser end
+2022-06-01 23:10:49,960 : DEBUG : diff parser start
+2022-06-01 23:10:49,961 : DEBUG : line_lengths old: 7; new: 7
+2022-06-01 23:10:49,961 : DEBUG : -> code[equal] old[1:6] new[1:6]
+2022-06-01 23:10:49,961 : DEBUG : copy old[1:6] new[1:4]
+2022-06-01 23:10:49,961 : DEBUG : parse_part from 5 to 7 (to 6 in part parser)
+2022-06-01 23:10:49,961 : DEBUG : -> code[replace] old[7:7] new[7:7]
+2022-06-01 23:10:49,961 : DEBUG : diff parser end
+2022-06-01 23:11:35,268 : DEBUG : diff parser start
+2022-06-01 23:11:35,268 : DEBUG : line_lengths old: 7; new: 10
+2022-06-01 23:11:35,268 : DEBUG : -> code[equal] old[1:6] new[1:6]
+2022-06-01 23:11:35,268 : DEBUG : copy old[1:6] new[1:4]
+2022-06-01 23:11:35,268 : DEBUG : parse_part from 5 to 10 (to 9 in part parser)
+2022-06-01 23:11:35,268 : DEBUG : -> code[replace] old[7:7] new[7:10]
+2022-06-01 23:11:35,268 : DEBUG : diff parser end
+2022-06-01 23:11:37,621 : DEBUG : diff parser start
+2022-06-01 23:11:37,621 : DEBUG : line_lengths old: 10; new: 10
+2022-06-01 23:11:37,621 : DEBUG : -> code[equal] old[1:9] new[1:9]
+2022-06-01 23:11:37,621 : DEBUG : copy old[1:9] new[1:4]
+2022-06-01 23:11:37,636 : DEBUG : parse_part from 5 to 10 (to 9 in part parser)
+2022-06-01 23:11:37,636 : DEBUG : -> code[replace] old[10:10] new[10:10]
+2022-06-01 23:11:37,636 : DEBUG : diff parser end
+2022-06-01 23:12:33,497 : DEBUG : diff parser start
+2022-06-01 23:12:33,497 : DEBUG : line_lengths old: 10; new: 2
+2022-06-01 23:12:33,497 : DEBUG : -> code[replace] old[1:10] new[1:2]
+2022-06-01 23:12:33,497 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-06-01 23:12:33,497 : DEBUG : diff parser end
+2022-06-01 23:12:35,414 : DEBUG : diff parser start
+2022-06-01 23:12:35,416 : DEBUG : line_lengths old: 2; new: 2
+2022-06-01 23:12:35,416 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2022-06-01 23:12:35,416 : DEBUG : copy old[1:1] new[1:1]
+2022-06-01 23:12:35,416 : DEBUG : -> code[replace] old[2:2] new[2:2]
+2022-06-01 23:12:35,416 : DEBUG : parse_part from 2 to 2 (to 1 in part parser)
+2022-06-01 23:12:35,417 : DEBUG : diff parser end
+2022-06-01 23:12:35,694 : DEBUG : diff parser start
+2022-06-01 23:12:35,694 : DEBUG : line_lengths old: 2; new: 2
+2022-06-01 23:12:35,694 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2022-06-01 23:12:35,694 : DEBUG : copy old[1:1] new[1:1]
+2022-06-01 23:12:35,694 : DEBUG : -> code[replace] old[2:2] new[2:2]
+2022-06-01 23:12:35,694 : DEBUG : parse_part from 2 to 2 (to 1 in part parser)
+2022-06-01 23:12:35,694 : DEBUG : diff parser end
+2022-06-01 23:12:35,934 : DEBUG : diff parser start
+2022-06-01 23:12:35,934 : DEBUG : line_lengths old: 2; new: 2
+2022-06-01 23:12:35,934 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2022-06-01 23:12:35,934 : DEBUG : copy old[1:1] new[1:1]
+2022-06-01 23:12:35,934 : DEBUG : -> code[replace] old[2:2] new[2:2]
+2022-06-01 23:12:35,939 : DEBUG : parse_part from 2 to 2 (to 1 in part parser)
+2022-06-01 23:12:35,939 : DEBUG : diff parser end
+2022-06-01 23:12:41,605 : INFO : Start executing Question 3
+2022-06-01 23:15:50,069 : DEBUG : diff parser start
+2022-06-01 23:15:50,069 : DEBUG : line_lengths old: 2; new: 2
+2022-06-01 23:15:50,069 : DEBUG : -> code[replace] old[1:2] new[1:2]
+2022-06-01 23:15:50,069 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-06-01 23:15:50,069 : DEBUG : diff parser end
+2022-06-01 23:15:50,178 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\abc.py
+2022-06-01 23:15:50,209 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\abc.pyi
+2022-06-01 23:18:44,851 : DEBUG : diff parser start
+2022-06-01 23:18:44,851 : DEBUG : line_lengths old: 2; new: 3
+2022-06-01 23:18:44,864 : DEBUG : -> code[replace] old[1:2] new[1:3]
+2022-06-01 23:18:44,864 : DEBUG : parse_part from 1 to 3 (to 2 in part parser)
+2022-06-01 23:18:44,864 : DEBUG : diff parser end
+2022-06-01 23:19:32,608 : DEBUG : diff parser start
+2022-06-01 23:19:32,608 : DEBUG : line_lengths old: 3; new: 3
+2022-06-01 23:19:32,608 : DEBUG : -> code[equal] old[1:2] new[1:2]
+2022-06-01 23:19:32,608 : DEBUG : copy old[1:2] new[1:2]
+2022-06-01 23:19:32,608 : DEBUG : -> code[replace] old[3:3] new[3:3]
+2022-06-01 23:19:32,608 : DEBUG : parse_part from 3 to 3 (to 2 in part parser)
+2022-06-01 23:19:32,608 : DEBUG : diff parser end
+2022-06-01 23:20:47,726 : DEBUG : diff parser start
+2022-06-01 23:20:47,726 : DEBUG : line_lengths old: 3; new: 8
+2022-06-01 23:20:47,726 : DEBUG : -> code[equal] old[1:2] new[1:2]
+2022-06-01 23:20:47,726 : DEBUG : copy old[1:2] new[1:2]
+2022-06-01 23:20:47,726 : DEBUG : -> code[replace] old[3:3] new[3:8]
+2022-06-01 23:20:47,726 : DEBUG : parse_part from 3 to 8 (to 7 in part parser)
+2022-06-01 23:20:47,726 : DEBUG : diff parser end
+2022-06-01 23:20:58,716 : DEBUG : diff parser start
+2022-06-01 23:20:58,716 : DEBUG : line_lengths old: 8; new: 8
+2022-06-01 23:20:58,716 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-06-01 23:20:58,716 : DEBUG : copy old[1:7] new[1:3]
+2022-06-01 23:20:58,716 : DEBUG : parse_part from 4 to 8 (to 7 in part parser)
+2022-06-01 23:20:58,716 : DEBUG : -> code[replace] old[8:8] new[8:8]
+2022-06-01 23:20:58,716 : DEBUG : diff parser end
+2022-06-01 23:21:48,486 : DEBUG : diff parser start
+2022-06-01 23:21:48,486 : DEBUG : line_lengths old: 8; new: 2
+2022-06-01 23:21:48,486 : DEBUG : -> code[replace] old[1:8] new[1:2]
+2022-06-01 23:21:48,486 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-06-01 23:21:48,486 : DEBUG : diff parser end
+2022-06-01 23:21:51,278 : INFO : Start Executing Question 4
+2022-06-01 23:22:15,538 : INFO : Start Executing Question 4
+2022-06-02 00:05:12,896 : DEBUG : diff parser start
+2022-06-02 00:05:12,896 : DEBUG : line_lengths old: 2; new: 14
+2022-06-02 00:05:12,896 : DEBUG : -> code[replace] old[1:2] new[1:14]
+2022-06-02 00:05:12,909 : DEBUG : parse_part from 1 to 14 (to 13 in part parser)
+2022-06-02 00:05:12,909 : DEBUG : diff parser end
+2022-06-02 00:05:17,184 : DEBUG : diff parser start
+2022-06-02 00:05:17,184 : DEBUG : line_lengths old: 14; new: 14
+2022-06-02 00:05:17,184 : DEBUG : -> code[equal] old[1:13] new[1:13]
+2022-06-02 00:05:17,184 : DEBUG : copy old[1:13] new[1:3]
+2022-06-02 00:05:17,201 : DEBUG : parse_part from 4 to 14 (to 13 in part parser)
+2022-06-02 00:05:17,201 : DEBUG : -> code[replace] old[14:14] new[14:14]
+2022-06-02 00:05:17,201 : DEBUG : diff parser end
+2022-06-02 00:06:41,422 : INFO : Start Executing Question 5
+2022-06-02 00:06:41,422 : INFO : Error: name 'isdigit' is not defined
+2022-06-02 00:06:41,422 : ERROR : name 'isdigit' is not defined
+2022-06-02 00:07:39,349 : INFO : Start Executing Question 5
+2022-06-02 00:07:39,349 : INFO : Error: name 'isnumeric' is not defined
+2022-06-02 00:07:39,349 : ERROR : name 'isnumeric' is not defined
+2022-06-02 00:09:00,316 : INFO : Start Executing Question 5
+2022-06-02 12:34:48,670 : INFO : Start Executing Question 1
+2022-06-02 12:35:07,871 : INFO : Start Executing Question 2
+2022-06-02 12:35:07,895 : INFO : Start executing Question 3
+2022-06-02 12:35:07,927 : INFO : Start Executing Question 4
+2022-06-02 12:35:07,967 : INFO : Start Executing Question 5
+2022-06-02 12:38:42,620 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-06-02 12:38:42,700 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-06-02 19:05:04,731 : INFO : Start Executing Question 1
+2022-06-02 19:05:16,363 : INFO : Error: int() argument must be a string, a bytes-like object or a number, not 'list'
+2022-06-02 19:05:16,363 : ERROR : int() argument must be a string, a bytes-like object or a number, not 'list'
+2022-06-02 19:05:44,237 : INFO : Start Executing Question 1
+2022-06-02 19:05:52,459 : INFO : Error: int() argument must be a string, a bytes-like object or a number, not 'list'
+2022-06-02 19:05:52,459 : ERROR : int() argument must be a string, a bytes-like object or a number, not 'list'
+2022-06-02 19:06:00,645 : INFO : Start Executing Question 1
+2022-06-02 19:06:06,546 : INFO : Error: int() argument must be a string, a bytes-like object or a number, not 'list'
+2022-06-02 19:06:06,546 : ERROR : int() argument must be a string, a bytes-like object or a number, not 'list'
+2022-06-02 19:06:22,699 : INFO : Start Executing Question 1
+2022-06-02 19:06:49,723 : INFO : Start Executing Question 1
+2022-06-02 19:06:52,160 : INFO : Error: invalid literal for int() with base 10: 'see'
+2022-06-02 19:06:52,160 : ERROR : invalid literal for int() with base 10: 'see'
+2022-06-02 19:07:20,414 : INFO : Start Executing Question 1
+2022-06-02 19:07:51,711 : INFO : Start Executing Question 1
+2022-06-02 19:07:58,263 : INFO : Start Executing Question 2
+2022-06-02 19:07:58,295 : INFO : Start executing Question 3
+2022-06-02 19:07:58,327 : INFO : Start Executing Question 4
+2022-06-02 19:07:58,359 : INFO : Start Executing Question 5
+2022-06-02 19:08:42,971 : INFO : Start Executing Question 1
+2022-06-02 19:09:04,632 : INFO : Start Executing Question 1
+2022-06-02 19:09:23,396 : INFO : Start Executing Question 1
+2022-06-02 19:09:40,376 : INFO : Start Executing Question 1
+2022-06-02 19:09:52,394 : INFO : Start Executing Question 2
+2022-06-02 19:09:52,426 : INFO : Start executing Question 3
+2022-06-02 19:09:52,458 : INFO : Start Executing Question 4
+2022-06-02 19:09:52,490 : INFO : Start Executing Question 5
+2022-06-02 20:56:42,408 : DEBUG : diff parser start
+2022-06-02 20:56:42,408 : DEBUG : line_lengths old: 5; new: 23
+2022-06-02 20:56:42,408 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-06-02 20:56:42,408 : DEBUG : copy old[1:4] new[1:3]
+2022-06-02 20:56:42,416 : DEBUG : parse_part from 4 to 23 (to 22 in part parser)
+2022-06-02 20:56:42,416 : DEBUG : -> code[replace] old[5:5] new[5:23]
+2022-06-02 20:56:42,416 : DEBUG : diff parser end
+2022-06-02 20:56:42,675 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-06-02 20:56:42,775 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\typing.py
+2022-06-02 20:56:42,844 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-06-02 20:56:43,060 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-06-02 20:57:20,826 : DEBUG : diff parser start
+2022-06-02 20:57:20,826 : DEBUG : line_lengths old: 23; new: 2
+2022-06-02 20:57:20,826 : DEBUG : -> code[replace] old[1:23] new[1:2]
+2022-06-02 20:57:20,826 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-06-02 20:57:20,826 : DEBUG : diff parser end
+2022-06-02 20:57:27,716 : INFO : Start Executing Question 6
+2022-06-02 20:57:27,722 : INFO : Error: name 'a' is not defined
+2022-06-02 20:57:27,722 : ERROR : name 'a' is not defined
+2022-06-02 20:58:07,205 : INFO : Start Executing Question 6
+2022-06-02 20:58:07,215 : INFO : Error: ord() expected string of length 1, but int found
+2022-06-02 20:58:07,215 : ERROR : ord() expected string of length 1, but int found
+2022-06-02 20:58:37,877 : INFO : Start Executing Question 6
+2022-06-02 20:58:37,877 : INFO : Error: '<=' not supported between instances of 'str' and 'int'
+2022-06-02 20:58:37,877 : ERROR : '<=' not supported between instances of 'str' and 'int'
+2022-06-02 20:59:05,529 : INFO : Start Executing Question 6
+2022-06-02 20:59:49,225 : INFO : Start Executing Question 6
+2022-06-02 21:00:13,033 : INFO : Start Executing Question 6
+2022-06-02 21:00:48,531 : INFO : Start Executing Question 6
+2022-06-03 13:51:50,695 : INFO : Start Executing Question 6
