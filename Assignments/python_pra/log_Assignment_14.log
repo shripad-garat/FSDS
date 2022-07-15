@@ -1,0 +1,354 @@
+2022-07-14 01:12:00,993 : DEBUG : diff parser start
+2022-07-14 01:12:00,994 : DEBUG : line_lengths old: 1; new: 9
+2022-07-14 01:12:00,994 : DEBUG : -> code[replace] old[1:1] new[1:9]
+2022-07-14 01:12:00,995 : DEBUG : parse_part from 1 to 9 (to 8 in part parser)
+2022-07-14 01:12:00,995 : DEBUG : diff parser end
+2022-07-14 01:13:22,496 : INFO : Question 1: Define a class with a generator which can iterate the numbers, which are divisible by 7, between a given range 0 and n.
+2022-07-14 01:13:22,497 : INFO : Start executing Question 1
+2022-07-14 01:15:48,717 : INFO : Question 2:Write a program to compute the frequency of the words from the input. The output should output after sorting the key alphanumerically.
+2022-07-14 01:15:48,723 : INFO : Start executing Question 2
+2022-07-14 22:11:34,346 : INFO : Question 1: Define a class with a generator which can iterate the numbers, which are divisible by 7, between a given range 0 and n.
+2022-07-14 22:11:34,346 : INFO : Start executing Question 1
+2022-07-14 22:11:34,403 : INFO : Question 2:Write a program to compute the frequency of the words from the input. The output should output after sorting the key alphanumerically.
+2022-07-14 22:11:34,403 : INFO : Start executing Question 2
+2022-07-14 22:17:21,182 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-07-14 22:17:21,270 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-07-14 22:18:09,689 : DEBUG : diff parser start
+2022-07-14 22:18:09,689 : DEBUG : line_lengths old: 3; new: 4
+2022-07-14 22:18:09,689 : DEBUG : -> code[equal] old[1:2] new[1:2]
+2022-07-14 22:18:09,689 : DEBUG : parse_part from 1 to 4 (to 3 in part parser)
+2022-07-14 22:18:09,689 : DEBUG : -> code[replace] old[3:3] new[3:4]
+2022-07-14 22:18:09,689 : DEBUG : diff parser end
+2022-07-14 22:18:12,494 : DEBUG : diff parser start
+2022-07-14 22:18:12,494 : DEBUG : line_lengths old: 4; new: 4
+2022-07-14 22:18:12,494 : DEBUG : -> code[equal] old[1:3] new[1:3]
+2022-07-14 22:18:12,494 : DEBUG : parse_part from 1 to 4 (to 3 in part parser)
+2022-07-14 22:18:12,494 : DEBUG : -> code[replace] old[4:4] new[4:4]
+2022-07-14 22:18:12,494 : DEBUG : diff parser end
+2022-07-14 22:18:12,635 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\typing.py
+2022-07-14 22:18:12,676 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-07-14 22:18:16,625 : DEBUG : diff parser start
+2022-07-14 22:18:16,625 : DEBUG : line_lengths old: 4; new: 4
+2022-07-14 22:18:16,625 : DEBUG : -> code[equal] old[1:3] new[1:3]
+2022-07-14 22:18:16,625 : DEBUG : parse_part from 1 to 4 (to 3 in part parser)
+2022-07-14 22:18:16,625 : DEBUG : -> code[replace] old[4:4] new[4:4]
+2022-07-14 22:18:16,633 : DEBUG : diff parser end
+2022-07-14 22:18:17,283 : DEBUG : diff parser start
+2022-07-14 22:18:17,283 : DEBUG : line_lengths old: 4; new: 4
+2022-07-14 22:18:17,283 : DEBUG : -> code[equal] old[1:3] new[1:3]
+2022-07-14 22:18:17,283 : DEBUG : parse_part from 1 to 4 (to 3 in part parser)
+2022-07-14 22:18:17,283 : DEBUG : -> code[replace] old[4:4] new[4:4]
+2022-07-14 22:18:17,283 : DEBUG : diff parser end
+2022-07-14 22:18:17,444 : DEBUG : diff parser start
+2022-07-14 22:18:17,444 : DEBUG : line_lengths old: 4; new: 4
+2022-07-14 22:18:17,444 : DEBUG : -> code[equal] old[1:3] new[1:3]
+2022-07-14 22:18:17,444 : DEBUG : parse_part from 1 to 4 (to 3 in part parser)
+2022-07-14 22:18:17,444 : DEBUG : -> code[replace] old[4:4] new[4:4]
+2022-07-14 22:18:17,444 : DEBUG : diff parser end
+2022-07-14 22:18:18,050 : DEBUG : diff parser start
+2022-07-14 22:18:18,050 : DEBUG : line_lengths old: 4; new: 4
+2022-07-14 22:18:18,050 : DEBUG : -> code[equal] old[1:3] new[1:3]
+2022-07-14 22:18:18,050 : DEBUG : parse_part from 1 to 4 (to 3 in part parser)
+2022-07-14 22:18:18,050 : DEBUG : -> code[replace] old[4:4] new[4:4]
+2022-07-14 22:18:18,050 : DEBUG : diff parser end
+2022-07-14 22:21:21,644 : DEBUG : diff parser start
+2022-07-14 22:21:21,644 : DEBUG : line_lengths old: 4; new: 7
+2022-07-14 22:21:21,652 : DEBUG : -> code[equal] old[1:3] new[1:3]
+2022-07-14 22:21:21,652 : DEBUG : parse_part from 1 to 7 (to 6 in part parser)
+2022-07-14 22:21:21,652 : DEBUG : -> code[replace] old[4:4] new[4:7]
+2022-07-14 22:21:21,652 : DEBUG : diff parser end
+2022-07-14 22:21:30,147 : DEBUG : diff parser start
+2022-07-14 22:21:30,147 : DEBUG : line_lengths old: 7; new: 8
+2022-07-14 22:21:30,147 : DEBUG : -> code[equal] old[1:6] new[1:6]
+2022-07-14 22:21:30,147 : DEBUG : parse_part from 1 to 8 (to 7 in part parser)
+2022-07-14 22:21:30,147 : DEBUG : -> code[replace] old[7:7] new[7:8]
+2022-07-14 22:21:30,147 : DEBUG : diff parser end
+2022-07-14 22:23:26,711 : DEBUG : diff parser start
+2022-07-14 22:23:26,711 : DEBUG : line_lengths old: 8; new: 11
+2022-07-14 22:23:26,711 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-07-14 22:23:26,711 : DEBUG : parse_part from 1 to 11 (to 10 in part parser)
+2022-07-14 22:23:26,711 : DEBUG : -> code[replace] old[8:8] new[8:11]
+2022-07-14 22:23:26,711 : DEBUG : diff parser end
+2022-07-14 22:23:30,344 : DEBUG : diff parser start
+2022-07-14 22:23:30,344 : DEBUG : line_lengths old: 11; new: 11
+2022-07-14 22:23:30,344 : DEBUG : -> code[equal] old[1:10] new[1:10]
+2022-07-14 22:23:30,352 : DEBUG : parse_part from 1 to 11 (to 10 in part parser)
+2022-07-14 22:23:30,352 : DEBUG : -> code[replace] old[11:11] new[11:11]
+2022-07-14 22:23:30,352 : DEBUG : diff parser end
+2022-07-14 22:23:40,636 : DEBUG : diff parser start
+2022-07-14 22:23:40,636 : DEBUG : line_lengths old: 11; new: 12
+2022-07-14 22:23:40,636 : DEBUG : -> code[equal] old[1:10] new[1:10]
+2022-07-14 22:23:40,644 : DEBUG : parse_part from 1 to 12 (to 11 in part parser)
+2022-07-14 22:23:40,644 : DEBUG : -> code[replace] old[11:11] new[11:12]
+2022-07-14 22:23:40,644 : DEBUG : diff parser end
+2022-07-14 22:23:44,470 : DEBUG : diff parser start
+2022-07-14 22:23:44,470 : DEBUG : line_lengths old: 12; new: 12
+2022-07-14 22:23:44,470 : DEBUG : -> code[equal] old[1:11] new[1:11]
+2022-07-14 22:23:44,478 : DEBUG : parse_part from 1 to 12 (to 11 in part parser)
+2022-07-14 22:23:44,478 : DEBUG : -> code[replace] old[12:12] new[12:12]
+2022-07-14 22:23:44,478 : DEBUG : diff parser end
+2022-07-14 22:25:30,507 : DEBUG : diff parser start
+2022-07-14 22:25:30,515 : DEBUG : line_lengths old: 12; new: 15
+2022-07-14 22:25:30,515 : DEBUG : -> code[equal] old[1:11] new[1:11]
+2022-07-14 22:25:30,515 : DEBUG : parse_part from 1 to 15 (to 14 in part parser)
+2022-07-14 22:25:30,515 : DEBUG : -> code[replace] old[12:12] new[12:15]
+2022-07-14 22:25:30,515 : DEBUG : diff parser end
+2022-07-14 22:25:34,091 : DEBUG : diff parser start
+2022-07-14 22:25:34,091 : DEBUG : line_lengths old: 15; new: 15
+2022-07-14 22:25:34,091 : DEBUG : -> code[equal] old[1:14] new[1:14]
+2022-07-14 22:25:34,099 : DEBUG : parse_part from 1 to 15 (to 14 in part parser)
+2022-07-14 22:25:34,099 : DEBUG : -> code[replace] old[15:15] new[15:15]
+2022-07-14 22:25:34,099 : DEBUG : diff parser end
+2022-07-14 22:25:42,421 : DEBUG : diff parser start
+2022-07-14 22:25:42,421 : DEBUG : line_lengths old: 15; new: 16
+2022-07-14 22:25:42,421 : DEBUG : -> code[equal] old[1:14] new[1:14]
+2022-07-14 22:25:42,429 : DEBUG : parse_part from 1 to 16 (to 15 in part parser)
+2022-07-14 22:25:42,429 : DEBUG : -> code[replace] old[15:15] new[15:16]
+2022-07-14 22:25:42,429 : DEBUG : diff parser end
+2022-07-14 22:27:04,665 : DEBUG : diff parser start
+2022-07-14 22:27:04,665 : DEBUG : line_lengths old: 16; new: 2
+2022-07-14 22:27:04,665 : DEBUG : -> code[replace] old[1:16] new[1:2]
+2022-07-14 22:27:04,665 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-07-14 22:27:04,665 : DEBUG : diff parser end
+2022-07-14 22:29:08,321 : DEBUG : diff parser start
+2022-07-14 22:29:08,321 : DEBUG : line_lengths old: 2; new: 14
+2022-07-14 22:29:08,321 : DEBUG : -> code[replace] old[1:2] new[1:14]
+2022-07-14 22:29:08,321 : DEBUG : parse_part from 1 to 14 (to 13 in part parser)
+2022-07-14 22:29:08,321 : DEBUG : diff parser end
+2022-07-14 22:29:23,029 : DEBUG : diff parser start
+2022-07-14 22:29:23,029 : DEBUG : line_lengths old: 14; new: 2
+2022-07-14 22:29:23,029 : DEBUG : -> code[replace] old[1:14] new[1:2]
+2022-07-14 22:29:23,029 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-07-14 22:29:23,029 : DEBUG : diff parser end
+2022-07-14 22:30:16,062 : DEBUG : diff parser start
+2022-07-14 22:30:16,062 : DEBUG : line_lengths old: 2; new: 15
+2022-07-14 22:30:16,062 : DEBUG : -> code[replace] old[1:2] new[1:15]
+2022-07-14 22:30:16,070 : DEBUG : parse_part from 1 to 15 (to 14 in part parser)
+2022-07-14 22:30:16,070 : DEBUG : diff parser end
+2022-07-14 22:34:16,006 : INFO : Question 3: Define a class Person and its two child classes: Male and Female. All classes have a method &quot;getGender&quot; which can print &quot;Male&quot; for Male class and &quot;Female&quot; for Female class.
+2022-07-14 22:34:16,014 : INFO : Start executing Question 3
+2022-07-14 22:34:48,543 : DEBUG : diff parser start
+2022-07-14 22:34:48,543 : DEBUG : line_lengths old: 15; new: 3
+2022-07-14 22:34:48,543 : DEBUG : -> code[replace] old[1:15] new[1:3]
+2022-07-14 22:34:48,543 : DEBUG : parse_part from 1 to 3 (to 2 in part parser)
+2022-07-14 22:34:48,543 : DEBUG : diff parser end
+2022-07-14 22:36:31,669 : DEBUG : diff parser start
+2022-07-14 22:36:31,669 : DEBUG : line_lengths old: 3; new: 5
+2022-07-14 22:36:31,669 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2022-07-14 22:36:31,669 : DEBUG : parse_part from 1 to 3 (to 3 in part parser)
+2022-07-14 22:36:31,669 : DEBUG : -> code[replace] old[2:3] new[2:5]
+2022-07-14 22:36:31,669 : DEBUG : parse_part from 4 to 5 (to 4 in part parser)
+2022-07-14 22:36:31,669 : DEBUG : diff parser end
+2022-07-14 22:36:58,067 : DEBUG : diff parser start
+2022-07-14 22:36:58,075 : DEBUG : line_lengths old: 5; new: 8
+2022-07-14 22:36:58,075 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-07-14 22:36:58,075 : DEBUG : copy old[1:3] new[1:3]
+2022-07-14 22:36:58,075 : DEBUG : parse_part from 4 to 3 (to 3 in part parser)
+2022-07-14 22:36:58,075 : DEBUG : parse_part from 4 to 6 (to 6 in part parser)
+2022-07-14 22:36:58,075 : DEBUG : -> code[insert] old[5:4] new[5:7]
+2022-07-14 22:36:58,075 : DEBUG : parse_part from 7 to 8 (to 7 in part parser)
+2022-07-14 22:36:58,075 : DEBUG : -> code[equal] old[5:5] new[8:8]
+2022-07-14 22:36:58,075 : DEBUG : diff parser end
+2022-07-14 22:38:40,644 : DEBUG : diff parser start
+2022-07-14 22:38:40,644 : DEBUG : line_lengths old: 8; new: 1
+2022-07-14 22:38:40,644 : DEBUG : -> code[replace] old[1:8] new[1:1]
+2022-07-14 22:38:40,644 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2022-07-14 22:38:40,644 : DEBUG : diff parser end
+2022-07-14 22:38:49,937 : DEBUG : diff parser start
+2022-07-14 22:38:49,937 : DEBUG : line_lengths old: 1; new: 2
+2022-07-14 22:38:49,937 : DEBUG : -> code[replace] old[1:1] new[1:2]
+2022-07-14 22:38:49,937 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-07-14 22:38:49,937 : DEBUG : diff parser end
+2022-07-14 22:38:52,202 : DEBUG : diff parser start
+2022-07-14 22:38:52,202 : DEBUG : line_lengths old: 2; new: 2
+2022-07-14 22:38:52,210 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2022-07-14 22:38:52,210 : DEBUG : copy old[1:1] new[1:1]
+2022-07-14 22:38:52,210 : DEBUG : -> code[replace] old[2:2] new[2:2]
+2022-07-14 22:38:52,210 : DEBUG : parse_part from 2 to 2 (to 1 in part parser)
+2022-07-14 22:38:52,210 : DEBUG : diff parser end
+2022-07-14 22:39:09,470 : DEBUG : diff parser start
+2022-07-14 22:39:09,470 : DEBUG : line_lengths old: 2; new: 4
+2022-07-14 22:39:09,470 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2022-07-14 22:39:09,470 : DEBUG : copy old[1:1] new[1:1]
+2022-07-14 22:39:09,470 : DEBUG : -> code[replace] old[2:2] new[2:4]
+2022-07-14 22:39:09,470 : DEBUG : parse_part from 2 to 4 (to 3 in part parser)
+2022-07-14 22:39:09,470 : DEBUG : diff parser end
+2022-07-14 22:40:54,542 : INFO : Question 4: Please write a program to generate all sentences where subject is in ["I", "You"] and verb is in ["Play", "Love"] and the object is in ["Hockey","Football"].
+2022-07-14 22:40:54,550 : INFO : Start executing Question 4
+2022-07-14 22:57:39,543 : DEBUG : diff parser start
+2022-07-14 22:57:39,544 : DEBUG : line_lengths old: 4; new: 2
+2022-07-14 22:57:39,544 : DEBUG : -> code[replace] old[1:4] new[1:2]
+2022-07-14 22:57:39,545 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-07-14 22:57:39,546 : DEBUG : diff parser end
+2022-07-14 22:58:03,759 : DEBUG : diff parser start
+2022-07-14 22:58:03,759 : DEBUG : line_lengths old: 2; new: 2
+2022-07-14 22:58:03,759 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2022-07-14 22:58:03,760 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-07-14 22:58:03,760 : DEBUG : -> code[replace] old[2:2] new[2:2]
+2022-07-14 22:58:03,761 : DEBUG : diff parser end
+2022-07-14 22:58:18,463 : DEBUG : diff parser start
+2022-07-14 22:58:18,463 : DEBUG : line_lengths old: 2; new: 3
+2022-07-14 22:58:18,463 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2022-07-14 22:58:18,464 : DEBUG : parse_part from 1 to 3 (to 2 in part parser)
+2022-07-14 22:58:18,465 : DEBUG : -> code[replace] old[2:2] new[2:3]
+2022-07-14 22:58:18,465 : DEBUG : diff parser end
+2022-07-14 22:58:25,630 : DEBUG : diff parser start
+2022-07-14 22:58:25,631 : DEBUG : line_lengths old: 3; new: 1
+2022-07-14 22:58:25,631 : DEBUG : -> code[replace] old[1:3] new[1:1]
+2022-07-14 22:58:25,631 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2022-07-14 22:58:25,631 : DEBUG : diff parser end
+2022-07-14 23:06:15,438 : DEBUG : diff parser start
+2022-07-14 23:06:15,438 : DEBUG : line_lengths old: 1; new: 4
+2022-07-14 23:06:15,438 : DEBUG : -> code[replace] old[1:1] new[1:4]
+2022-07-14 23:06:15,439 : DEBUG : parse_part from 1 to 4 (to 3 in part parser)
+2022-07-14 23:06:15,439 : DEBUG : diff parser end
+2022-07-14 23:08:54,510 : DEBUG : diff parser start
+2022-07-14 23:08:54,510 : DEBUG : line_lengths old: 4; new: 5
+2022-07-14 23:08:54,510 : DEBUG : -> code[replace] old[1:4] new[1:5]
+2022-07-14 23:08:54,512 : DEBUG : parse_part from 1 to 5 (to 4 in part parser)
+2022-07-14 23:08:54,512 : DEBUG : diff parser end
+2022-07-14 23:08:58,349 : DEBUG : diff parser start
+2022-07-14 23:08:58,349 : DEBUG : line_lengths old: 5; new: 5
+2022-07-14 23:08:58,349 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-07-14 23:08:58,350 : DEBUG : parse_part from 1 to 5 (to 4 in part parser)
+2022-07-14 23:08:58,350 : DEBUG : -> code[replace] old[5:5] new[5:5]
+2022-07-14 23:08:58,350 : DEBUG : diff parser end
+2022-07-14 23:09:05,766 : DEBUG : diff parser start
+2022-07-14 23:09:05,766 : DEBUG : line_lengths old: 5; new: 5
+2022-07-14 23:09:05,766 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-07-14 23:09:05,767 : DEBUG : parse_part from 1 to 5 (to 4 in part parser)
+2022-07-14 23:09:05,767 : DEBUG : -> code[replace] old[5:5] new[5:5]
+2022-07-14 23:09:05,767 : DEBUG : diff parser end
+2022-07-14 23:10:49,288 : INFO : Question 5: Please write a program to compress and decompress the string "hello world!hello world!hello world!hello world!".
+2022-07-14 23:10:49,288 : INFO : Start executing Question 5
+2022-07-14 23:25:12,917 : DEBUG : diff parser start
+2022-07-14 23:25:12,917 : DEBUG : line_lengths old: 5; new: 10
+2022-07-14 23:25:12,917 : DEBUG : -> code[replace] old[1:5] new[1:10]
+2022-07-14 23:25:12,919 : DEBUG : parse_part from 1 to 10 (to 9 in part parser)
+2022-07-14 23:25:12,919 : DEBUG : diff parser end
+2022-07-14 23:25:15,386 : DEBUG : diff parser start
+2022-07-14 23:25:15,387 : DEBUG : line_lengths old: 10; new: 10
+2022-07-14 23:25:15,387 : DEBUG : -> code[equal] old[1:9] new[1:9]
+2022-07-14 23:25:15,388 : DEBUG : parse_part from 1 to 10 (to 9 in part parser)
+2022-07-14 23:25:15,389 : DEBUG : -> code[replace] old[10:10] new[10:10]
+2022-07-14 23:25:15,389 : DEBUG : diff parser end
+2022-07-14 23:25:42,381 : DEBUG : diff parser start
+2022-07-14 23:25:42,381 : DEBUG : line_lengths old: 10; new: 12
+2022-07-14 23:25:42,381 : DEBUG : -> code[equal] old[1:9] new[1:9]
+2022-07-14 23:25:42,383 : DEBUG : parse_part from 1 to 12 (to 11 in part parser)
+2022-07-14 23:25:42,383 : DEBUG : -> code[insert] old[10:9] new[10:11]
+2022-07-14 23:25:42,383 : DEBUG : -> code[equal] old[10:10] new[12:12]
+2022-07-14 23:25:42,383 : DEBUG : diff parser end
+2022-07-14 23:26:17,325 : DEBUG : diff parser start
+2022-07-14 23:26:17,325 : DEBUG : line_lengths old: 12; new: 13
+2022-07-14 23:26:17,325 : DEBUG : -> code[equal] old[1:11] new[1:11]
+2022-07-14 23:26:17,327 : DEBUG : parse_part from 1 to 13 (to 12 in part parser)
+2022-07-14 23:26:17,327 : DEBUG : -> code[replace] old[12:12] new[12:13]
+2022-07-14 23:26:17,327 : DEBUG : diff parser end
+2022-07-14 23:26:24,756 : DEBUG : diff parser start
+2022-07-14 23:26:24,757 : DEBUG : line_lengths old: 13; new: 14
+2022-07-14 23:26:24,757 : DEBUG : -> code[equal] old[1:12] new[1:12]
+2022-07-14 23:26:24,760 : DEBUG : parse_part from 1 to 14 (to 13 in part parser)
+2022-07-14 23:26:24,760 : DEBUG : -> code[replace] old[13:13] new[13:14]
+2022-07-14 23:26:24,760 : DEBUG : diff parser end
+2022-07-14 23:26:28,317 : DEBUG : diff parser start
+2022-07-14 23:26:28,318 : DEBUG : line_lengths old: 14; new: 14
+2022-07-14 23:26:28,318 : DEBUG : -> code[equal] old[1:13] new[1:13]
+2022-07-14 23:26:28,320 : DEBUG : parse_part from 1 to 14 (to 13 in part parser)
+2022-07-14 23:26:28,320 : DEBUG : -> code[replace] old[14:14] new[14:14]
+2022-07-14 23:26:28,320 : DEBUG : diff parser end
+2022-07-14 23:26:32,477 : DEBUG : diff parser start
+2022-07-14 23:26:32,477 : DEBUG : line_lengths old: 14; new: 14
+2022-07-14 23:26:32,477 : DEBUG : -> code[equal] old[1:13] new[1:13]
+2022-07-14 23:26:32,479 : DEBUG : parse_part from 1 to 14 (to 13 in part parser)
+2022-07-14 23:26:32,479 : DEBUG : -> code[replace] old[14:14] new[14:14]
+2022-07-14 23:26:32,479 : DEBUG : diff parser end
+2022-07-14 23:26:48,597 : DEBUG : diff parser start
+2022-07-14 23:26:48,597 : DEBUG : line_lengths old: 14; new: 16
+2022-07-14 23:26:48,597 : DEBUG : -> code[equal] old[1:13] new[1:13]
+2022-07-14 23:26:48,599 : DEBUG : parse_part from 1 to 16 (to 15 in part parser)
+2022-07-14 23:26:48,600 : DEBUG : -> code[replace] old[14:14] new[14:16]
+2022-07-14 23:26:48,600 : DEBUG : diff parser end
+2022-07-14 23:28:30,925 : DEBUG : diff parser start
+2022-07-14 23:28:30,925 : DEBUG : line_lengths old: 16; new: 22
+2022-07-14 23:28:30,925 : DEBUG : -> code[equal] old[1:15] new[1:15]
+2022-07-14 23:28:30,927 : DEBUG : parse_part from 1 to 16 (to 17 in part parser)
+2022-07-14 23:28:30,927 : DEBUG : -> code[replace] old[16:16] new[16:22]
+2022-07-14 23:28:30,928 : DEBUG : parse_part from 17 to 22 (to 21 in part parser)
+2022-07-14 23:28:30,928 : DEBUG : diff parser end
+2022-07-14 23:29:35,244 : DEBUG : diff parser start
+2022-07-14 23:29:35,244 : DEBUG : line_lengths old: 22; new: 22
+2022-07-14 23:29:35,244 : DEBUG : -> code[equal] old[1:21] new[1:21]
+2022-07-14 23:29:35,245 : DEBUG : copy old[1:16] new[1:16]
+2022-07-14 23:29:35,245 : DEBUG : parse_part from 17 to 17 (to 17 in part parser)
+2022-07-14 23:29:35,246 : DEBUG : parse_part from 18 to 22 (to 21 in part parser)
+2022-07-14 23:29:35,246 : DEBUG : -> code[replace] old[22:22] new[22:22]
+2022-07-14 23:29:35,246 : DEBUG : diff parser end
+2022-07-14 23:29:38,596 : DEBUG : diff parser start
+2022-07-14 23:29:38,597 : DEBUG : line_lengths old: 22; new: 22
+2022-07-14 23:29:38,597 : DEBUG : -> code[equal] old[1:21] new[1:21]
+2022-07-14 23:29:38,597 : DEBUG : copy old[1:16] new[1:16]
+2022-07-14 23:29:38,598 : DEBUG : parse_part from 17 to 17 (to 17 in part parser)
+2022-07-14 23:29:38,598 : DEBUG : parse_part from 18 to 22 (to 21 in part parser)
+2022-07-14 23:29:38,598 : DEBUG : -> code[replace] old[22:22] new[22:22]
+2022-07-14 23:29:38,598 : DEBUG : diff parser end
+2022-07-14 23:30:16,957 : DEBUG : diff parser start
+2022-07-14 23:30:16,957 : DEBUG : line_lengths old: 22; new: 23
+2022-07-14 23:30:16,958 : DEBUG : -> code[equal] old[1:21] new[1:21]
+2022-07-14 23:30:16,958 : DEBUG : copy old[1:16] new[1:16]
+2022-07-14 23:30:16,958 : DEBUG : parse_part from 17 to 17 (to 17 in part parser)
+2022-07-14 23:30:16,959 : DEBUG : parse_part from 18 to 23 (to 22 in part parser)
+2022-07-14 23:30:16,959 : DEBUG : -> code[replace] old[22:22] new[22:23]
+2022-07-14 23:30:16,959 : DEBUG : diff parser end
+2022-07-14 23:31:13,309 : DEBUG : diff parser start
+2022-07-14 23:31:13,309 : DEBUG : line_lengths old: 23; new: 26
+2022-07-14 23:31:13,309 : DEBUG : -> code[equal] old[1:22] new[1:22]
+2022-07-14 23:31:13,309 : DEBUG : copy old[1:16] new[1:16]
+2022-07-14 23:31:13,310 : DEBUG : parse_part from 17 to 17 (to 17 in part parser)
+2022-07-14 23:31:13,311 : DEBUG : parse_part from 18 to 26 (to 25 in part parser)
+2022-07-14 23:31:13,311 : DEBUG : -> code[replace] old[23:23] new[23:26]
+2022-07-14 23:31:13,311 : DEBUG : diff parser end
+2022-07-14 23:32:04,556 : DEBUG : diff parser start
+2022-07-14 23:32:04,556 : DEBUG : line_lengths old: 26; new: 2
+2022-07-14 23:32:04,556 : DEBUG : -> code[replace] old[1:26] new[1:2]
+2022-07-14 23:32:04,556 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-07-14 23:32:04,557 : DEBUG : diff parser end
+2022-07-14 23:32:59,868 : DEBUG : diff parser start
+2022-07-14 23:32:59,869 : DEBUG : line_lengths old: 2; new: 4
+2022-07-14 23:32:59,869 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2022-07-14 23:32:59,869 : DEBUG : copy old[1:1] new[1:1]
+2022-07-14 23:32:59,869 : DEBUG : -> code[replace] old[2:2] new[2:4]
+2022-07-14 23:32:59,869 : DEBUG : parse_part from 2 to 4 (to 3 in part parser)
+2022-07-14 23:32:59,870 : DEBUG : diff parser end
+2022-07-14 23:48:55,662 : INFO : Question 6: Please write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list.
+2022-07-14 23:48:55,662 : INFO : Start executing Question 6
+2022-07-14 23:56:07,195 : DEBUG : diff parser start
+2022-07-14 23:56:07,195 : DEBUG : line_lengths old: 4; new: 7
+2022-07-14 23:56:07,195 : DEBUG : -> code[replace] old[1:4] new[1:7]
+2022-07-14 23:56:07,196 : DEBUG : parse_part from 1 to 7 (to 6 in part parser)
+2022-07-14 23:56:07,196 : DEBUG : diff parser end
+2022-07-15 00:03:08,698 : DEBUG : diff parser start
+2022-07-15 00:03:08,698 : DEBUG : line_lengths old: 7; new: 11
+2022-07-15 00:03:08,698 : DEBUG : -> code[equal] old[1:2] new[1:2]
+2022-07-15 00:03:08,700 : DEBUG : parse_part from 1 to 11 (to 10 in part parser)
+2022-07-15 00:03:08,700 : DEBUG : -> code[replace] old[3:7] new[3:11]
+2022-07-15 00:03:08,700 : DEBUG : diff parser end
+2022-07-15 00:06:56,739 : DEBUG : diff parser start
+2022-07-15 00:06:56,739 : DEBUG : line_lengths old: 11; new: 3
+2022-07-15 00:06:56,739 : DEBUG : -> code[replace] old[1:11] new[1:3]
+2022-07-15 00:06:56,740 : DEBUG : parse_part from 1 to 3 (to 2 in part parser)
+2022-07-15 00:06:56,740 : DEBUG : diff parser end
+2022-07-15 00:41:51,242 : INFO : Question 3: Define a class Person and its two child classes: Male and Female. All classes have a method getGender; which can print &quot;Male&quot;Male for Male class and Female for Female class.
+2022-07-15 00:41:51,243 : INFO : Start executing Question 3
+2022-07-15 21:00:35,754 : INFO : Question 1: Define a class with a generator which can iterate the numbers, which are divisible by 7, between a given range 0 and n.
+2022-07-15 21:00:35,754 : INFO : Start executing Question 1
+2022-07-15 21:00:35,810 : INFO : Question 2:Write a program to compute the frequency of the words from the input. The output should output after sorting the key alphanumerically.
+2022-07-15 21:00:35,810 : INFO : Start executing Question 2
+2022-07-15 21:00:35,874 : INFO : Question 3: Define a class Person and its two child classes: Male and Female. All classes have a method getGender; which can print &quot;Male&quot;Male for Male class and Female for Female class.
+2022-07-15 21:00:35,874 : INFO : Start executing Question 3
+2022-07-15 21:00:35,922 : INFO : Question 4: Please write a program to generate all sentences where subject is in ["I", "You"] and verb is in ["Play", "Love"] and the object is in ["Hockey","Football"].
+2022-07-15 21:00:35,922 : INFO : Start executing Question 4
+2022-07-15 21:00:35,970 : INFO : Question 5: Please write a program to compress and decompress the string "hello world!hello world!hello world!hello world!".
+2022-07-15 21:00:35,970 : INFO : Start executing Question 5
+2022-07-15 21:00:36,018 : INFO : Question 6: Please write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list.
+2022-07-15 21:00:36,018 : INFO : Start executing Question 6
