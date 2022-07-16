@@ -1,0 +1,10 @@
+2022-07-16 22:10:39,619 : INFO : Question 1: Write a function that stutters a word as if someone is struggling to read it. The first two letters are repeated twice with an ellipsis ... and space after each, and then the word is pronounced with a question mark ?.
+2022-07-16 22:10:39,620 : INFO : Start executing Question 1
+2022-07-16 22:10:39,667 : INFO : Question 2: Create a function that takes an angle in radians and returns the corresponding angle in degrees rounded to one decimal place.
+2022-07-16 22:10:39,668 : INFO : Start executing Question 2
+2022-07-16 22:10:39,714 : INFO : Question 3: In this challenge, establish if a given integer num is a Curzon number. If 1 plus 2 elevated to num is exactly divisible by 1 plus 2 multiplied by num, then num is a Curzon number.
+2022-07-16 22:10:39,715 : INFO : Start executing Question 3
+2022-07-16 22:10:39,761 : INFO : Question 4: Given the side length x find the area of a hexagon.
+2022-07-16 22:10:39,761 : INFO : Start executing Question 4
+2022-07-16 22:10:39,808 : INFO : Question 5: Create a function that returns a base-2 (binary) representation of a base-10 (decimal) string number. To convert is simple: ((2) means base-2 and (10) means base-10) 010101001(2) = 1 + 8 + 32 + 128.
+2022-07-16 22:10:39,808 : INFO : Start executing Question 5

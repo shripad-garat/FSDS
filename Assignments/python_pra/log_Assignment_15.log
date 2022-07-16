@@ -1,0 +1,12 @@
+2022-07-16 22:10:26,182 : INFO : Question 1: Please write a program using generator to print the numbers which can be divisible by 5 and 7 between 0 and n in comma separated form while n is input by console.
+2022-07-16 22:10:26,182 : INFO : Start executing Question 1
+2022-07-16 22:11:20,832 : INFO : Question 1: Please write a program using generator to print the numbers which can be divisible by 5 and 7 between 0 and n in comma separated form while n is input by console.
+2022-07-16 22:11:20,833 : INFO : Start executing Question 1
+2022-07-16 22:11:26,172 : INFO : Question 2: Please write a program using generator to print the even numbers between 0 and n in comma separated form while n is input by console.
+2022-07-16 22:11:26,173 : INFO : Start executing Question 2
+2022-07-16 22:11:34,128 : INFO : Question 3: The Fibonacci Sequence is computed based on the following formula: f(n)=0 if n=0 f(n)=1 if n=1 f(n)=f(n-1)+f(n-2) if n>1 Please write a program using list comprehension to print the Fibonacci Sequence in comma separated form with a given n input by console.
+2022-07-16 22:11:34,129 : INFO : Start executing Question 3
+2022-07-16 22:13:15,945 : INFO : Question 4: Assuming that we have some email addresses in the username@companyname.com format, please write program to print the user name of a given email address. Both user names and company names are composed of letters only.
+2022-07-16 22:13:15,945 : INFO : Start executing Question 4
+2022-07-16 22:13:16,776 : INFO : Question 5: Define a class named Shape and its subclass Square. The Square class has an init function which takes a length as argument. Both classes have a area function which can print the area of the shape where Shapes area is 0 by default.
+2022-07-16 22:13:16,776 : INFO : Start executing Question 5

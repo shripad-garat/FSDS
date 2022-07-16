@@ -1,0 +1,10 @@
+2022-07-16 22:10:52,169 : INFO : Question 1: Create a function that takes three arguments a, b, c and returns the sum of the numbers that are evenly divided by c from the range a, b inclusive.
+2022-07-16 22:10:52,170 : INFO : Start executing Question 1
+2022-07-16 22:10:52,214 : INFO : Question 2: Create a function that returns True if a given inequality expression is correct and False otherwise.
+2022-07-16 22:10:52,214 : INFO : Start executing Question 2
+2022-07-16 22:10:52,260 : INFO : Question 3: Create a function that replaces all the vowels in a string with a specified character.
+2022-07-16 22:10:52,260 : INFO : Start executing Question 3
+2022-07-16 22:10:52,306 : INFO : Question 4: Write a function that calculates the factorial of a number recursively.
+2022-07-16 22:10:52,307 : INFO : Start executing Question 4
+2022-07-16 22:10:52,353 : INFO : Question 5: Hamming distance is the number of characters that differ between two strings. To illustrate: String1: "abcbba" String2: "abcbda" Hamming Distance: 1 - "b" vs. "d" is the only difference. Create a function that computes the hamming distance between two strings.
+2022-07-16 22:10:52,353 : INFO : Start executing Question 5
