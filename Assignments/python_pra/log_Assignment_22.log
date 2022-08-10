@@ -1,0 +1,133 @@
+2022-07-17 22:38:04,928 : INFO : Question 1: Create a function that takes three parameters where: \uf0b7 x is the start of the range (inclusive). \uf0b7 y is the end of the range (inclusive). \uf0b7 n is the divisor to be checked against. Return an ordered list with numbers in the range that are divisible by the third parameter n. Return an empty list if there are no numbers that are divisible by n.
+2022-07-17 22:38:04,929 : INFO : Start executing Question 1
+2022-07-17 22:41:00,230 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-07-17 22:41:00,268 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-07-17 22:41:02,685 : DEBUG : diff parser start
+2022-07-17 22:41:02,685 : DEBUG : line_lengths old: 5; new: 5
+2022-07-17 22:41:02,685 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-07-17 22:41:02,685 : DEBUG : copy old[1:4] new[1:2]
+2022-07-17 22:41:02,686 : DEBUG : parse_part from 3 to 5 (to 4 in part parser)
+2022-07-17 22:41:02,686 : DEBUG : -> code[replace] old[5:5] new[5:5]
+2022-07-17 22:41:02,686 : DEBUG : diff parser end
+2022-07-17 22:41:04,756 : DEBUG : diff parser start
+2022-07-17 22:41:04,756 : DEBUG : line_lengths old: 5; new: 5
+2022-07-17 22:41:04,757 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-07-17 22:41:04,757 : DEBUG : copy old[1:4] new[1:2]
+2022-07-17 22:41:04,758 : DEBUG : parse_part from 3 to 5 (to 4 in part parser)
+2022-07-17 22:41:04,758 : DEBUG : -> code[replace] old[5:5] new[5:5]
+2022-07-17 22:41:04,758 : DEBUG : diff parser end
+2022-07-17 22:42:43,454 : INFO : Question 2: Create a function that takes in two lists and returns True if the second list follows the first list by one element, and False otherwise. In other words, determine if the second list is the first list shifted to the right by 1
+2022-07-17 22:42:43,455 : INFO : Start executing Question 2
+2022-07-17 22:47:47,365 : DEBUG : diff parser start
+2022-07-17 22:47:47,366 : DEBUG : line_lengths old: 5; new: 8
+2022-07-17 22:47:47,366 : DEBUG : -> code[replace] old[1:2] new[1:2]
+2022-07-17 22:47:47,367 : DEBUG : parse_part from 1 to 8 (to 7 in part parser)
+2022-07-17 22:47:47,367 : DEBUG : -> code[equal] old[3:3] new[3:3]
+2022-07-17 22:47:47,367 : DEBUG : -> code[replace] old[4:5] new[4:8]
+2022-07-17 22:47:47,367 : DEBUG : diff parser end
+2022-07-17 22:47:49,300 : DEBUG : diff parser start
+2022-07-17 22:47:49,300 : DEBUG : line_lengths old: 8; new: 8
+2022-07-17 22:47:49,301 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-07-17 22:47:49,301 : DEBUG : copy old[1:7] new[1:2]
+2022-07-17 22:47:49,302 : DEBUG : parse_part from 3 to 8 (to 7 in part parser)
+2022-07-17 22:47:49,302 : DEBUG : -> code[replace] old[8:8] new[8:8]
+2022-07-17 22:47:49,302 : DEBUG : diff parser end
+2022-07-17 22:47:52,109 : DEBUG : diff parser start
+2022-07-17 22:47:52,109 : DEBUG : line_lengths old: 8; new: 8
+2022-07-17 22:47:52,109 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-07-17 22:47:52,110 : DEBUG : copy old[1:7] new[1:2]
+2022-07-17 22:47:52,110 : DEBUG : parse_part from 3 to 8 (to 7 in part parser)
+2022-07-17 22:47:52,111 : DEBUG : -> code[replace] old[8:8] new[8:8]
+2022-07-17 22:47:52,111 : DEBUG : diff parser end
+2022-07-17 22:48:05,972 : DEBUG : diff parser start
+2022-07-17 22:48:05,972 : DEBUG : line_lengths old: 8; new: 10
+2022-07-17 22:48:05,973 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-07-17 22:48:05,973 : DEBUG : copy old[1:7] new[1:2]
+2022-07-17 22:48:05,974 : DEBUG : parse_part from 3 to 10 (to 9 in part parser)
+2022-07-17 22:48:05,974 : DEBUG : -> code[replace] old[8:8] new[8:10]
+2022-07-17 22:48:05,974 : DEBUG : diff parser end
+2022-07-17 22:49:59,894 : INFO : Question 3: A group of friends have decided to start a secret society. The name will be the first letter of each of their names, sorted in alphabetical order. Create a function that takes in a list of names and returns the name of the secret society.
+2022-07-17 22:49:59,894 : INFO : Start executing Question 3
+2022-07-17 22:53:10,684 : DEBUG : diff parser start
+2022-07-17 22:53:10,685 : DEBUG : line_lengths old: 10; new: 5
+2022-07-17 22:53:10,685 : DEBUG : -> code[replace] old[1:2] new[1:2]
+2022-07-17 22:53:10,685 : DEBUG : parse_part from 1 to 5 (to 4 in part parser)
+2022-07-17 22:53:10,686 : DEBUG : -> code[equal] old[3:3] new[3:3]
+2022-07-17 22:53:10,686 : DEBUG : -> code[replace] old[4:10] new[4:5]
+2022-07-17 22:53:10,686 : DEBUG : diff parser end
+2022-07-17 22:53:12,908 : DEBUG : diff parser start
+2022-07-17 22:53:12,909 : DEBUG : line_lengths old: 5; new: 5
+2022-07-17 22:53:12,909 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-07-17 22:53:12,909 : DEBUG : parse_part from 1 to 1 (to 1 in part parser)
+2022-07-17 22:53:12,910 : DEBUG : parse_part from 2 to 5 (to 4 in part parser)
+2022-07-17 22:53:12,910 : DEBUG : -> code[replace] old[5:5] new[5:5]
+2022-07-17 22:53:12,910 : DEBUG : diff parser end
+2022-07-17 22:53:22,772 : DEBUG : diff parser start
+2022-07-17 22:53:22,772 : DEBUG : line_lengths old: 5; new: 7
+2022-07-17 22:53:22,772 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-07-17 22:53:22,773 : DEBUG : parse_part from 1 to 1 (to 1 in part parser)
+2022-07-17 22:53:22,774 : DEBUG : parse_part from 2 to 7 (to 6 in part parser)
+2022-07-17 22:53:22,774 : DEBUG : -> code[replace] old[5:5] new[5:7]
+2022-07-17 22:53:22,774 : DEBUG : diff parser end
+2022-07-17 22:55:58,582 : INFO : Question 4: An isogram is a word that has no duplicate letters. Create a function that takes a string and returns either True or False depending on whether or not its an "isogram".
+2022-07-17 22:55:58,582 : INFO : Start executing Question 4
+2022-07-17 23:00:18,860 : DEBUG : diff parser start
+2022-07-17 23:00:18,861 : DEBUG : line_lengths old: 7; new: 8
+2022-07-17 23:00:18,861 : DEBUG : -> code[replace] old[1:2] new[1:2]
+2022-07-17 23:00:18,862 : DEBUG : parse_part from 1 to 8 (to 7 in part parser)
+2022-07-17 23:00:18,862 : DEBUG : -> code[equal] old[3:3] new[3:3]
+2022-07-17 23:00:18,862 : DEBUG : -> code[replace] old[4:7] new[4:8]
+2022-07-17 23:00:18,862 : DEBUG : diff parser end
+2022-07-17 23:00:21,411 : DEBUG : diff parser start
+2022-07-17 23:00:21,411 : DEBUG : line_lengths old: 8; new: 8
+2022-07-17 23:00:21,411 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-07-17 23:00:21,411 : DEBUG : copy old[1:7] new[1:2]
+2022-07-17 23:00:21,412 : DEBUG : parse_part from 3 to 8 (to 7 in part parser)
+2022-07-17 23:00:21,412 : DEBUG : -> code[replace] old[8:8] new[8:8]
+2022-07-17 23:00:21,412 : DEBUG : diff parser end
+2022-07-17 23:00:32,827 : DEBUG : diff parser start
+2022-07-17 23:00:32,828 : DEBUG : line_lengths old: 8; new: 10
+2022-07-17 23:00:32,828 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-07-17 23:00:32,828 : DEBUG : copy old[1:7] new[1:2]
+2022-07-17 23:00:32,829 : DEBUG : parse_part from 3 to 10 (to 9 in part parser)
+2022-07-17 23:00:32,829 : DEBUG : -> code[replace] old[8:8] new[8:10]
+2022-07-17 23:00:32,829 : DEBUG : diff parser end
+2022-07-17 23:01:22,236 : DEBUG : diff parser start
+2022-07-17 23:01:22,236 : DEBUG : line_lengths old: 10; new: 4
+2022-07-17 23:01:22,237 : DEBUG : -> code[equal] old[1:3] new[1:3]
+2022-07-17 23:01:22,237 : DEBUG : copy old[1:9] new[1:2]
+2022-07-17 23:01:22,238 : DEBUG : parse_part from 3 to 4 (to 3 in part parser)
+2022-07-17 23:01:22,238 : DEBUG : -> code[replace] old[4:10] new[4:4]
+2022-07-17 23:01:22,238 : DEBUG : diff parser end
+2022-07-17 23:02:10,829 : INFO : Error Occured: unsupported operand type(s) for -: 'str' and 'int'
+2022-07-17 23:02:20,198 : INFO : Error Occured: name 's1' is not defined
+2022-07-17 23:03:39,943 : INFO : Question 5: Create a function that takes a string and returns True or False, depending on whether the characters are in order or not.
+2022-07-17 23:03:39,943 : INFO : Start executing Question 5
+2022-07-17 23:06:38,692 : DEBUG : diff parser start
+2022-07-17 23:06:38,693 : DEBUG : line_lengths old: 4; new: 9
+2022-07-17 23:06:38,693 : DEBUG : -> code[replace] old[1:2] new[1:2]
+2022-07-17 23:06:38,694 : DEBUG : parse_part from 1 to 9 (to 8 in part parser)
+2022-07-17 23:06:38,694 : DEBUG : -> code[equal] old[3:3] new[3:3]
+2022-07-17 23:06:38,694 : DEBUG : -> code[replace] old[4:4] new[4:9]
+2022-07-17 23:06:38,694 : DEBUG : diff parser end
+2022-07-17 23:07:01,820 : DEBUG : diff parser start
+2022-07-17 23:07:01,821 : DEBUG : line_lengths old: 9; new: 10
+2022-07-17 23:07:01,821 : DEBUG : -> code[equal] old[1:8] new[1:8]
+2022-07-17 23:07:01,821 : DEBUG : copy old[1:8] new[1:2]
+2022-07-17 23:07:01,822 : DEBUG : parse_part from 3 to 10 (to 9 in part parser)
+2022-07-17 23:07:01,822 : DEBUG : -> code[replace] old[9:9] new[9:10]
+2022-07-17 23:07:01,822 : DEBUG : diff parser end
+2022-07-17 23:07:04,220 : DEBUG : diff parser start
+2022-07-17 23:07:04,220 : DEBUG : line_lengths old: 10; new: 10
+2022-07-17 23:07:04,220 : DEBUG : -> code[equal] old[1:9] new[1:9]
+2022-07-17 23:07:04,220 : DEBUG : copy old[1:9] new[1:2]
+2022-07-17 23:07:04,221 : DEBUG : parse_part from 3 to 10 (to 9 in part parser)
+2022-07-17 23:07:04,221 : DEBUG : -> code[replace] old[10:10] new[10:10]
+2022-07-17 23:07:04,221 : DEBUG : diff parser end
+2022-07-17 23:07:19,651 : DEBUG : diff parser start
+2022-07-17 23:07:19,651 : DEBUG : line_lengths old: 10; new: 12
+2022-07-17 23:07:19,651 : DEBUG : -> code[equal] old[1:9] new[1:9]
+2022-07-17 23:07:19,652 : DEBUG : copy old[1:9] new[1:2]
+2022-07-17 23:07:19,653 : DEBUG : parse_part from 3 to 12 (to 11 in part parser)
+2022-07-17 23:07:19,653 : DEBUG : -> code[replace] old[10:10] new[10:12]
+2022-07-17 23:07:19,653 : DEBUG : diff parser end

@@ -1,0 +1,116 @@
+2022-07-16 22:17:13,304 : INFO : Question 1: Create a function that takes a list of non-negative integers and strings and return a new list without the strings.
+2022-07-16 22:17:13,304 : INFO : Start executing Question 1
+2022-07-16 22:21:32,301 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-07-16 22:21:32,341 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-07-16 22:21:36,165 : DEBUG : diff parser start
+2022-07-16 22:21:36,165 : DEBUG : line_lengths old: 2; new: 2
+2022-07-16 22:21:36,165 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2022-07-16 22:21:36,166 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-07-16 22:21:36,166 : DEBUG : -> code[replace] old[2:2] new[2:2]
+2022-07-16 22:21:36,166 : DEBUG : diff parser end
+2022-07-16 22:37:14,925 : DEBUG : diff parser start
+2022-07-16 22:37:14,926 : DEBUG : line_lengths old: 2; new: 6
+2022-07-16 22:37:14,926 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2022-07-16 22:37:14,927 : DEBUG : parse_part from 1 to 6 (to 5 in part parser)
+2022-07-16 22:37:14,927 : DEBUG : -> code[replace] old[2:2] new[2:6]
+2022-07-16 22:37:14,927 : DEBUG : diff parser end
+2022-07-16 22:38:37,845 : DEBUG : diff parser start
+2022-07-16 22:38:37,845 : DEBUG : line_lengths old: 6; new: 1
+2022-07-16 22:38:37,845 : DEBUG : -> code[replace] old[1:6] new[1:1]
+2022-07-16 22:38:37,846 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2022-07-16 22:38:37,846 : DEBUG : diff parser end
+2022-07-16 22:39:15,031 : INFO : Error Occured: name 'isdigit' is not defined
+2022-07-16 22:43:26,784 : INFO : Question 2: The "Reverser" takes a string as input and returns that string in reverse order, with the opposite case.
+2022-07-16 22:43:26,784 : INFO : Start executing Question 2
+2022-07-16 22:44:55,838 : DEBUG : diff parser start
+2022-07-16 22:44:55,838 : DEBUG : line_lengths old: 1; new: 4
+2022-07-16 22:44:55,838 : DEBUG : -> code[replace] old[1:1] new[1:4]
+2022-07-16 22:44:55,839 : DEBUG : parse_part from 1 to 4 (to 3 in part parser)
+2022-07-16 22:44:55,839 : DEBUG : diff parser end
+2022-07-16 22:47:03,733 : DEBUG : diff parser start
+2022-07-16 22:47:03,733 : DEBUG : line_lengths old: 4; new: 6
+2022-07-16 22:47:03,733 : DEBUG : -> code[equal] old[1:3] new[1:3]
+2022-07-16 22:47:03,734 : DEBUG : copy old[1:3] new[1:2]
+2022-07-16 22:47:03,735 : DEBUG : parse_part from 3 to 6 (to 5 in part parser)
+2022-07-16 22:47:03,735 : DEBUG : -> code[replace] old[4:4] new[4:6]
+2022-07-16 22:47:03,735 : DEBUG : diff parser end
+2022-07-16 22:47:09,100 : DEBUG : diff parser start
+2022-07-16 22:47:09,101 : DEBUG : line_lengths old: 6; new: 6
+2022-07-16 22:47:09,101 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-07-16 22:47:09,101 : DEBUG : copy old[1:5] new[1:2]
+2022-07-16 22:47:09,103 : DEBUG : parse_part from 3 to 6 (to 5 in part parser)
+2022-07-16 22:47:09,103 : DEBUG : -> code[replace] old[6:6] new[6:6]
+2022-07-16 22:47:09,103 : DEBUG : diff parser end
+2022-07-16 22:48:53,391 : INFO : Error Occured: 'str' object has no attribute 'islowwer'
+2022-07-16 22:56:41,119 : INFO : Question 3: You can assign variables from lists like this: lst = [1, 2, 3, 4, 5, 6] first = lst[0] middle = lst[1:-1] last = lst[-1] print(first) \u279e outputs 1 print(middle) \u279e outputs [2, 3, 4, 5] print(last) \u279e outputs 6
+2022-07-16 22:56:41,120 : INFO : Start executing Question 3
+2022-07-16 22:59:04,964 : DEBUG : diff parser start
+2022-07-16 22:59:04,965 : DEBUG : line_lengths old: 6; new: 7
+2022-07-16 22:59:04,965 : DEBUG : -> code[replace] old[1:2] new[1:1]
+2022-07-16 22:59:04,966 : DEBUG : parse_part from 1 to 7 (to 6 in part parser)
+2022-07-16 22:59:04,966 : DEBUG : -> code[equal] old[3:3] new[2:2]
+2022-07-16 22:59:04,966 : DEBUG : -> code[replace] old[4:6] new[3:7]
+2022-07-16 22:59:04,966 : DEBUG : diff parser end
+2022-07-16 23:00:00,764 : DEBUG : diff parser start
+2022-07-16 23:00:00,765 : DEBUG : line_lengths old: 7; new: 1
+2022-07-16 23:00:00,765 : DEBUG : -> code[replace] old[1:7] new[1:1]
+2022-07-16 23:00:00,765 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2022-07-16 23:00:00,766 : DEBUG : diff parser end
+2022-07-16 23:01:41,223 : INFO : Question 4: Write a function that calculates the factorial of a number recursively.
+2022-07-16 23:01:41,223 : INFO : Start executing Question 4
+2022-07-16 23:04:18,509 : DEBUG : diff parser start
+2022-07-16 23:04:18,509 : DEBUG : line_lengths old: 1; new: 6
+2022-07-16 23:04:18,509 : DEBUG : -> code[replace] old[1:1] new[1:6]
+2022-07-16 23:04:18,510 : DEBUG : parse_part from 1 to 6 (to 5 in part parser)
+2022-07-16 23:04:18,510 : DEBUG : diff parser end
+2022-07-16 23:04:33,126 : DEBUG : diff parser start
+2022-07-16 23:04:33,126 : DEBUG : line_lengths old: 6; new: 7
+2022-07-16 23:04:33,127 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-07-16 23:04:33,127 : DEBUG : copy old[1:5] new[1:2]
+2022-07-16 23:04:33,127 : DEBUG : parse_part from 3 to 7 (to 6 in part parser)
+2022-07-16 23:04:33,128 : DEBUG : -> code[replace] old[6:6] new[6:7]
+2022-07-16 23:04:33,128 : DEBUG : diff parser end
+2022-07-16 23:05:34,245 : DEBUG : diff parser start
+2022-07-16 23:05:34,245 : DEBUG : line_lengths old: 7; new: 1
+2022-07-16 23:05:34,245 : DEBUG : -> code[replace] old[1:7] new[1:1]
+2022-07-16 23:05:34,245 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2022-07-16 23:05:34,245 : DEBUG : diff parser end
+2022-07-16 23:06:21,343 : INFO : Question 5: Write a function that moves all elements of one type to the end of the list.
+2022-07-16 23:06:21,343 : INFO : Start executing Question 5
+2022-07-16 23:15:12,701 : DEBUG : diff parser start
+2022-07-16 23:15:12,701 : DEBUG : line_lengths old: 1; new: 6
+2022-07-16 23:15:12,701 : DEBUG : -> code[replace] old[1:1] new[1:6]
+2022-07-16 23:15:12,702 : DEBUG : parse_part from 1 to 6 (to 5 in part parser)
+2022-07-16 23:15:12,702 : DEBUG : diff parser end
+2022-07-16 23:15:17,884 : DEBUG : diff parser start
+2022-07-16 23:15:17,884 : DEBUG : line_lengths old: 6; new: 6
+2022-07-16 23:15:17,885 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-07-16 23:15:17,885 : DEBUG : copy old[1:5] new[1:2]
+2022-07-16 23:15:17,886 : DEBUG : parse_part from 3 to 6 (to 5 in part parser)
+2022-07-16 23:15:17,886 : DEBUG : -> code[replace] old[6:6] new[6:6]
+2022-07-16 23:15:17,886 : DEBUG : diff parser end
+2022-07-16 23:15:38,204 : DEBUG : diff parser start
+2022-07-16 23:15:38,204 : DEBUG : line_lengths old: 6; new: 7
+2022-07-16 23:15:38,205 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-07-16 23:15:38,205 : DEBUG : copy old[1:5] new[1:2]
+2022-07-16 23:15:38,206 : DEBUG : parse_part from 3 to 7 (to 6 in part parser)
+2022-07-16 23:15:38,206 : DEBUG : -> code[replace] old[6:6] new[6:7]
+2022-07-16 23:15:38,206 : DEBUG : diff parser end
+2022-07-16 23:15:41,748 : DEBUG : diff parser start
+2022-07-16 23:15:41,748 : DEBUG : line_lengths old: 7; new: 7
+2022-07-16 23:15:41,749 : DEBUG : -> code[equal] old[1:6] new[1:6]
+2022-07-16 23:15:41,749 : DEBUG : copy old[1:6] new[1:2]
+2022-07-16 23:15:41,750 : DEBUG : parse_part from 3 to 7 (to 6 in part parser)
+2022-07-16 23:15:41,750 : DEBUG : -> code[replace] old[7:7] new[7:7]
+2022-07-16 23:15:41,750 : DEBUG : diff parser end
+2022-07-16 23:19:40,430 : INFO : Error Occured: name 'concat' is not defined
+2022-07-16 23:19:57,695 : INFO : Error Occured: 'list' object has no attribute 'concat'
+2022-07-16 23:21:35,572 : DEBUG : diff parser start
+2022-07-16 23:21:35,572 : DEBUG : line_lengths old: 7; new: 7
+2022-07-16 23:21:35,572 : DEBUG : -> code[equal] old[1:3] new[1:3]
+2022-07-16 23:21:35,573 : DEBUG : copy old[1:6] new[1:2]
+2022-07-16 23:21:35,574 : DEBUG : parse_part from 3 to 7 (to 6 in part parser)
+2022-07-16 23:21:35,574 : DEBUG : -> code[replace] old[4:7] new[4:7]
+2022-07-16 23:21:35,574 : DEBUG : diff parser end
+2022-07-16 23:21:35,617 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\typing.py
+2022-07-16 23:21:35,640 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi

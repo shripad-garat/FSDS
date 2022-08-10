@@ -1,0 +1,115 @@
+2022-07-16 23:28:40,718 : INFO : Question 1: Create a function that takes a string and returns a string in which each character is repeated once.
+2022-07-16 23:28:40,719 : INFO : Start executing Question 1
+2022-07-16 23:30:05,746 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-07-16 23:30:05,779 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-07-16 23:30:08,252 : DEBUG : diff parser start
+2022-07-16 23:30:08,253 : DEBUG : line_lengths old: 6; new: 6
+2022-07-16 23:30:08,253 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-07-16 23:30:08,253 : DEBUG : copy old[1:5] new[1:2]
+2022-07-16 23:30:08,260 : DEBUG : parse_part from 3 to 6 (to 5 in part parser)
+2022-07-16 23:30:08,260 : DEBUG : -> code[replace] old[6:6] new[6:6]
+2022-07-16 23:30:08,261 : DEBUG : diff parser end
+2022-07-16 23:30:11,060 : DEBUG : diff parser start
+2022-07-16 23:30:11,060 : DEBUG : line_lengths old: 6; new: 6
+2022-07-16 23:30:11,061 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-07-16 23:30:11,061 : DEBUG : copy old[1:5] new[1:2]
+2022-07-16 23:30:11,062 : DEBUG : parse_part from 3 to 6 (to 5 in part parser)
+2022-07-16 23:30:11,062 : DEBUG : -> code[replace] old[6:6] new[6:6]
+2022-07-16 23:30:11,062 : DEBUG : diff parser end
+2022-07-16 23:33:05,503 : INFO : Question 2: Create a function that reverses a boolean value and returns the string "boolean expected" if another variable type is given.
+2022-07-16 23:33:05,503 : INFO : Start executing Question 2
+2022-07-16 23:34:02,172 : DEBUG : diff parser start
+2022-07-16 23:34:02,173 : DEBUG : line_lengths old: 6; new: 2
+2022-07-16 23:34:02,173 : DEBUG : -> code[replace] old[1:6] new[1:2]
+2022-07-16 23:34:02,173 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-07-16 23:34:02,173 : DEBUG : diff parser end
+2022-07-16 23:38:51,468 : DEBUG : diff parser start
+2022-07-16 23:38:51,468 : DEBUG : line_lengths old: 2; new: 10
+2022-07-16 23:38:51,469 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2022-07-16 23:38:51,470 : DEBUG : parse_part from 1 to 10 (to 9 in part parser)
+2022-07-16 23:38:51,470 : DEBUG : -> code[replace] old[2:2] new[2:10]
+2022-07-16 23:38:51,470 : DEBUG : diff parser end
+2022-07-16 23:38:52,740 : DEBUG : diff parser start
+2022-07-16 23:38:52,740 : DEBUG : line_lengths old: 10; new: 10
+2022-07-16 23:38:52,740 : DEBUG : -> code[equal] old[1:9] new[1:9]
+2022-07-16 23:38:52,740 : DEBUG : copy old[1:9] new[1:2]
+2022-07-16 23:38:52,741 : DEBUG : parse_part from 3 to 10 (to 9 in part parser)
+2022-07-16 23:38:52,741 : DEBUG : -> code[replace] old[10:10] new[10:10]
+2022-07-16 23:38:52,741 : DEBUG : diff parser end
+2022-07-16 23:38:57,332 : DEBUG : diff parser start
+2022-07-16 23:38:57,332 : DEBUG : line_lengths old: 10; new: 10
+2022-07-16 23:38:57,332 : DEBUG : -> code[equal] old[1:9] new[1:9]
+2022-07-16 23:38:57,332 : DEBUG : copy old[1:9] new[1:2]
+2022-07-16 23:38:57,333 : DEBUG : parse_part from 3 to 10 (to 9 in part parser)
+2022-07-16 23:38:57,333 : DEBUG : -> code[replace] old[10:10] new[10:10]
+2022-07-16 23:38:57,333 : DEBUG : diff parser end
+2022-07-16 23:42:50,988 : DEBUG : diff parser start
+2022-07-16 23:42:50,988 : DEBUG : line_lengths old: 10; new: 1
+2022-07-16 23:42:50,988 : DEBUG : -> code[replace] old[1:10] new[1:1]
+2022-07-16 23:42:50,988 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2022-07-16 23:42:50,988 : DEBUG : diff parser end
+2022-07-16 23:42:51,034 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\typing.py
+2022-07-16 23:42:51,044 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-07-16 23:45:19,198 : INFO : Question 3: Create a function that returns the thickness (in meters) of a piece of paper after folding it n number of times. The paper starts off with a thickness of 0.5mm.
+2022-07-16 23:45:19,199 : INFO : Start executing Question 3
+2022-07-16 23:46:54,318 : DEBUG : diff parser start
+2022-07-16 23:46:54,319 : DEBUG : line_lengths old: 1; new: 5
+2022-07-16 23:46:54,319 : DEBUG : -> code[replace] old[1:1] new[1:5]
+2022-07-16 23:46:54,320 : DEBUG : parse_part from 1 to 5 (to 4 in part parser)
+2022-07-16 23:46:54,320 : DEBUG : diff parser end
+2022-07-16 23:46:56,500 : DEBUG : diff parser start
+2022-07-16 23:46:56,500 : DEBUG : line_lengths old: 5; new: 5
+2022-07-16 23:46:56,500 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-07-16 23:46:56,501 : DEBUG : copy old[1:4] new[1:2]
+2022-07-16 23:46:56,501 : DEBUG : parse_part from 3 to 5 (to 4 in part parser)
+2022-07-16 23:46:56,501 : DEBUG : -> code[replace] old[5:5] new[5:5]
+2022-07-16 23:46:56,502 : DEBUG : diff parser end
+2022-07-16 23:48:32,332 : DEBUG : diff parser start
+2022-07-16 23:48:32,332 : DEBUG : line_lengths old: 5; new: 5
+2022-07-16 23:48:32,333 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-07-16 23:48:32,333 : DEBUG : copy old[1:4] new[1:2]
+2022-07-16 23:48:32,334 : DEBUG : parse_part from 3 to 5 (to 4 in part parser)
+2022-07-16 23:48:32,334 : DEBUG : -> code[replace] old[5:5] new[5:5]
+2022-07-16 23:48:32,334 : DEBUG : diff parser end
+2022-07-16 23:52:26,807 : INFO : Question 4: Create a function that takes a single string as argument and returns an ordered list containing the indices of all capital letters in the string.
+2022-07-16 23:52:26,807 : INFO : Start executing Question 4
+2022-07-16 23:54:37,028 : DEBUG : diff parser start
+2022-07-16 23:54:37,028 : DEBUG : line_lengths old: 5; new: 6
+2022-07-16 23:54:37,029 : DEBUG : -> code[replace] old[1:2] new[1:2]
+2022-07-16 23:54:37,030 : DEBUG : parse_part from 1 to 6 (to 5 in part parser)
+2022-07-16 23:54:37,030 : DEBUG : -> code[equal] old[3:3] new[3:3]
+2022-07-16 23:54:37,030 : DEBUG : -> code[replace] old[4:5] new[4:6]
+2022-07-16 23:54:37,030 : DEBUG : diff parser end
+2022-07-16 23:54:40,211 : DEBUG : diff parser start
+2022-07-16 23:54:40,212 : DEBUG : line_lengths old: 6; new: 6
+2022-07-16 23:54:40,212 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-07-16 23:54:40,212 : DEBUG : copy old[1:5] new[1:2]
+2022-07-16 23:54:40,213 : DEBUG : parse_part from 3 to 6 (to 5 in part parser)
+2022-07-16 23:54:40,213 : DEBUG : -> code[replace] old[6:6] new[6:6]
+2022-07-16 23:54:40,213 : DEBUG : diff parser end
+2022-07-16 23:54:55,515 : DEBUG : diff parser start
+2022-07-16 23:54:55,516 : DEBUG : line_lengths old: 6; new: 8
+2022-07-16 23:54:55,516 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-07-16 23:54:55,516 : DEBUG : copy old[1:5] new[1:2]
+2022-07-16 23:54:55,517 : DEBUG : parse_part from 3 to 8 (to 7 in part parser)
+2022-07-16 23:54:55,517 : DEBUG : -> code[replace] old[6:6] new[6:8]
+2022-07-16 23:54:55,517 : DEBUG : diff parser end
+2022-07-16 23:55:18,916 : DEBUG : diff parser start
+2022-07-16 23:55:18,916 : DEBUG : line_lengths old: 8; new: 1
+2022-07-16 23:55:18,916 : DEBUG : -> code[replace] old[1:8] new[1:1]
+2022-07-16 23:55:18,917 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2022-07-16 23:55:18,917 : DEBUG : diff parser end
+2022-07-16 23:56:50,558 : INFO : Question 5: Using list comprehensions, create a function that finds all even numbers from 1 to the given number.
+2022-07-16 23:56:50,558 : INFO : Start executing Question 5
+2022-07-16 23:59:16,675 : DEBUG : diff parser start
+2022-07-16 23:59:16,675 : DEBUG : line_lengths old: 1; new: 5
+2022-07-16 23:59:16,676 : DEBUG : -> code[replace] old[1:1] new[1:5]
+2022-07-16 23:59:16,677 : DEBUG : parse_part from 1 to 5 (to 4 in part parser)
+2022-07-16 23:59:16,677 : DEBUG : diff parser end
+2022-07-16 23:59:18,795 : DEBUG : diff parser start
+2022-07-16 23:59:18,796 : DEBUG : line_lengths old: 5; new: 5
+2022-07-16 23:59:18,796 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-07-16 23:59:18,796 : DEBUG : copy old[1:4] new[1:2]
+2022-07-16 23:59:18,797 : DEBUG : parse_part from 3 to 5 (to 4 in part parser)
+2022-07-16 23:59:18,797 : DEBUG : -> code[replace] old[5:5] new[5:5]
+2022-07-16 23:59:18,797 : DEBUG : diff parser end

@@ -1,0 +1,69 @@
+2022-07-17 23:09:49,642 : INFO : Question 1: Write a function that takes a list and a number as arguments. Add the number to the end of the list, then remove the first element of the list. The function should then return the updated list.
+2022-07-17 23:09:49,642 : INFO : Start executing Question 1
+2022-07-17 23:09:49,690 : INFO : Question 2: Create the function that takes a list of dictionaries and returns the sum of peoples budgets.
+2022-07-17 23:09:49,691 : INFO : Start executing Question 2
+2022-07-17 23:09:49,736 : INFO : Question 3: Create a function that takes a string and returns a string with its letters in alphabetical order.
+2022-07-17 23:09:49,737 : INFO : Start executing Question 3
+2022-07-17 23:09:49,784 : INFO : Question 4: Suppose that you invest 10,000 for 10 years at an interest rate of 6% compounded monthly. What will be the value of your investment at the end of the 10 year period? Create a function that accepts the principal p, the term in years t, the interest rate r, and the number of compounding periods per year n. The function returns the value at the end of term rounded to the nearest cent.### Question4 Suppose that you invest 10,000 for 10 years at an interest rate of 6% compounded monthly. What will be the value of your investment at the end of the 10 year period? Create a function that accepts the principal p, the term in years t, the interest rate r, and the number of compounding periods per year n. The function returns the value at the end of term rounded to the nearest cent.
+2022-07-17 23:09:49,784 : INFO : Start executing Question 4
+2022-07-17 23:09:49,845 : INFO : Question 5: Write a function that takes a list of elements and returns only the integers.
+2022-07-17 23:09:49,846 : INFO : Start executing Question 5
+2022-07-17 23:25:05,246 : INFO : Question 1: Create a function that takes a number as an argument and returns True or False depending on whether the number is symmetrical or not. A number is symmetrical when it is the same as its reverse.
+2022-07-17 23:25:05,246 : INFO : Start executing Question 1
+2022-07-17 23:34:07,604 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-07-17 23:34:07,646 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-07-17 23:34:11,676 : DEBUG : diff parser start
+2022-07-17 23:34:11,677 : DEBUG : line_lengths old: 8; new: 8
+2022-07-17 23:34:11,677 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-07-17 23:34:11,677 : DEBUG : copy old[1:7] new[1:2]
+2022-07-17 23:34:11,678 : DEBUG : parse_part from 3 to 8 (to 7 in part parser)
+2022-07-17 23:34:11,678 : DEBUG : -> code[replace] old[8:8] new[8:8]
+2022-07-17 23:34:11,678 : DEBUG : diff parser end
+2022-07-17 23:34:38,604 : DEBUG : diff parser start
+2022-07-17 23:34:38,604 : DEBUG : line_lengths old: 8; new: 10
+2022-07-17 23:34:38,604 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-07-17 23:34:38,605 : DEBUG : copy old[1:7] new[1:2]
+2022-07-17 23:34:38,606 : DEBUG : parse_part from 3 to 10 (to 9 in part parser)
+2022-07-17 23:34:38,606 : DEBUG : -> code[replace] old[8:8] new[8:10]
+2022-07-17 23:34:38,606 : DEBUG : diff parser end
+2022-07-17 23:34:38,643 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\logging\__init__.py
+2022-07-17 23:36:55,998 : INFO : Question 2: Given a string of numbers separated by a comma and space, return the product of the numbers.
+2022-07-17 23:36:55,998 : INFO : Start executing Question 2
+2022-07-17 23:42:03,059 : DEBUG : diff parser start
+2022-07-17 23:42:03,060 : DEBUG : line_lengths old: 10; new: 1
+2022-07-17 23:42:03,060 : DEBUG : -> code[replace] old[1:10] new[1:1]
+2022-07-17 23:42:03,060 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2022-07-17 23:42:03,060 : DEBUG : diff parser end
+2022-07-17 23:42:10,075 : DEBUG : diff parser start
+2022-07-17 23:42:10,075 : DEBUG : line_lengths old: 1; new: 1
+2022-07-17 23:42:10,076 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2022-07-17 23:42:10,076 : DEBUG : parse_part from 1 to 2 (to 0 in part parser)
+2022-07-17 23:42:10,076 : DEBUG : diff parser end
+2022-07-17 23:42:10,141 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\typing.py
+2022-07-17 23:42:10,179 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-07-17 23:48:40,163 : DEBUG : diff parser start
+2022-07-17 23:48:40,163 : DEBUG : line_lengths old: 1; new: 8
+2022-07-17 23:48:40,163 : DEBUG : -> code[replace] old[1:1] new[1:8]
+2022-07-17 23:48:40,164 : DEBUG : parse_part from 1 to 8 (to 7 in part parser)
+2022-07-17 23:48:40,165 : DEBUG : diff parser end
+2022-07-17 23:48:41,652 : DEBUG : diff parser start
+2022-07-17 23:48:41,652 : DEBUG : line_lengths old: 8; new: 8
+2022-07-17 23:48:41,652 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-07-17 23:48:41,653 : DEBUG : copy old[1:7] new[1:2]
+2022-07-17 23:48:41,653 : DEBUG : parse_part from 3 to 8 (to 7 in part parser)
+2022-07-17 23:48:41,653 : DEBUG : -> code[replace] old[8:8] new[8:8]
+2022-07-17 23:48:41,653 : DEBUG : diff parser end
+2022-07-17 23:48:46,562 : DEBUG : diff parser start
+2022-07-17 23:48:46,563 : DEBUG : line_lengths old: 8; new: 8
+2022-07-17 23:48:46,563 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-07-17 23:48:46,563 : DEBUG : copy old[1:7] new[1:2]
+2022-07-17 23:48:46,564 : DEBUG : parse_part from 3 to 8 (to 7 in part parser)
+2022-07-17 23:48:46,564 : DEBUG : -> code[replace] old[8:8] new[8:8]
+2022-07-17 23:48:46,564 : DEBUG : diff parser end
+2022-07-17 23:48:57,203 : DEBUG : diff parser start
+2022-07-17 23:48:57,204 : DEBUG : line_lengths old: 8; new: 10
+2022-07-17 23:48:57,204 : DEBUG : -> code[equal] old[1:7] new[1:7]
+2022-07-17 23:48:57,204 : DEBUG : copy old[1:7] new[1:2]
+2022-07-17 23:48:57,205 : DEBUG : parse_part from 3 to 10 (to 9 in part parser)
+2022-07-17 23:48:57,205 : DEBUG : -> code[replace] old[8:8] new[8:10]
+2022-07-17 23:48:57,205 : DEBUG : diff parser end
