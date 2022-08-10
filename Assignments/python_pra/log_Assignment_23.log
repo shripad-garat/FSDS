@@ -1,0 +1,82 @@
+2022-08-10 22:36:00,271 : INFO : Question 1: Create a function that takes a number as an argument and returns True or False depending on whether the number is symmetrical or not. A number is symmetrical when it is the same as its reverse.
+2022-08-10 22:36:00,271 : INFO : Start executing Question 1
+2022-08-10 22:36:00,359 : INFO : Question 2: Given a string of numbers separated by a comma and space, return the product of the numbers.
+2022-08-10 22:36:00,359 : INFO : Start executing Question 2
+2022-08-10 22:36:00,407 : INFO : Question 3: 
+2022-08-10 22:36:00,407 : INFO : Start executing Question 3
+2022-08-10 22:37:00,520 : INFO : Question 3: Create a function that squares every digit of a number.
+2022-08-10 22:37:00,533 : INFO : Start executing Question 3
+2022-08-10 22:40:19,461 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-08-10 22:40:19,559 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\typing.py
+2022-08-10 22:40:19,599 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-08-10 22:40:19,679 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-08-10 22:40:20,834 : DEBUG : diff parser start
+2022-08-10 22:40:20,834 : DEBUG : line_lengths old: 4; new: 4
+2022-08-10 22:40:20,834 : DEBUG : -> code[equal] old[1:3] new[1:3]
+2022-08-10 22:40:20,834 : DEBUG : copy old[1:3] new[1:2]
+2022-08-10 22:40:20,842 : DEBUG : parse_part from 3 to 4 (to 3 in part parser)
+2022-08-10 22:40:20,842 : DEBUG : -> code[replace] old[4:4] new[4:4]
+2022-08-10 22:40:20,842 : DEBUG : diff parser end
+2022-08-10 22:44:42,852 : DEBUG : diff parser start
+2022-08-10 22:44:42,852 : DEBUG : line_lengths old: 4; new: 7
+2022-08-10 22:44:42,852 : DEBUG : -> code[equal] old[1:3] new[1:3]
+2022-08-10 22:44:42,852 : DEBUG : copy old[1:3] new[1:2]
+2022-08-10 22:44:42,860 : DEBUG : parse_part from 3 to 7 (to 6 in part parser)
+2022-08-10 22:44:42,860 : DEBUG : -> code[replace] old[4:4] new[4:7]
+2022-08-10 22:44:42,860 : DEBUG : diff parser end
+2022-08-10 22:44:49,390 : DEBUG : diff parser start
+2022-08-10 22:44:49,390 : DEBUG : line_lengths old: 7; new: 7
+2022-08-10 22:44:49,398 : DEBUG : -> code[equal] old[1:6] new[1:6]
+2022-08-10 22:44:49,399 : DEBUG : copy old[1:6] new[1:2]
+2022-08-10 22:44:49,399 : DEBUG : parse_part from 3 to 7 (to 6 in part parser)
+2022-08-10 22:44:49,399 : DEBUG : -> code[replace] old[7:7] new[7:7]
+2022-08-10 22:44:49,399 : DEBUG : diff parser end
+2022-08-10 22:46:22,634 : INFO : Error Occured: empty separator
+2022-08-10 22:46:48,638 : INFO : Error Occured: empty separator
+2022-08-10 22:48:48,853 : INFO : Error Occured: empty separator
+2022-08-10 22:54:15,639 : INFO : Error Occured: object of type 'int' has no len()
+2022-08-10 22:54:36,369 : INFO : Error Occured: sequence item 0: expected str instance, int found
+2022-08-10 22:57:49,240 : INFO : Question 4:Create a function that sorts a list and removes all duplicate items from it.
+2022-08-10 22:57:49,240 : INFO : Start executing Question 4
+2022-08-10 23:03:14,391 : DEBUG : diff parser start
+2022-08-10 23:03:14,391 : DEBUG : line_lengths old: 7; new: 11
+2022-08-10 23:03:14,391 : DEBUG : -> code[replace] old[1:2] new[1:2]
+2022-08-10 23:03:14,391 : DEBUG : parse_part from 1 to 11 (to 10 in part parser)
+2022-08-10 23:03:14,391 : DEBUG : -> code[equal] old[3:3] new[3:3]
+2022-08-10 23:03:14,391 : DEBUG : -> code[replace] old[4:7] new[4:11]
+2022-08-10 23:03:14,391 : DEBUG : diff parser end
+2022-08-10 23:03:18,316 : DEBUG : diff parser start
+2022-08-10 23:03:18,316 : DEBUG : line_lengths old: 11; new: 11
+2022-08-10 23:03:18,316 : DEBUG : -> code[equal] old[1:10] new[1:10]
+2022-08-10 23:03:18,316 : DEBUG : copy old[1:10] new[1:2]
+2022-08-10 23:03:18,324 : DEBUG : parse_part from 3 to 11 (to 10 in part parser)
+2022-08-10 23:03:18,324 : DEBUG : -> code[replace] old[11:11] new[11:11]
+2022-08-10 23:03:18,324 : DEBUG : diff parser end
+2022-08-10 23:03:22,742 : DEBUG : diff parser start
+2022-08-10 23:03:22,742 : DEBUG : line_lengths old: 11; new: 11
+2022-08-10 23:03:22,742 : DEBUG : -> code[equal] old[1:10] new[1:10]
+2022-08-10 23:03:22,742 : DEBUG : copy old[1:10] new[1:2]
+2022-08-10 23:03:22,742 : DEBUG : parse_part from 3 to 11 (to 10 in part parser)
+2022-08-10 23:03:22,742 : DEBUG : -> code[replace] old[11:11] new[11:11]
+2022-08-10 23:03:22,742 : DEBUG : diff parser end
+2022-08-10 23:10:04,123 : INFO : Question 5:Create a function that returns the mean of all digits.
+2022-08-10 23:10:04,123 : INFO : Start executing Question 5
+2022-08-10 23:16:54,583 : DEBUG : diff parser start
+2022-08-10 23:16:54,583 : DEBUG : line_lengths old: 11; new: 6
+2022-08-10 23:16:54,583 : DEBUG : -> code[replace] old[1:11] new[1:6]
+2022-08-10 23:16:54,592 : DEBUG : parse_part from 1 to 6 (to 5 in part parser)
+2022-08-10 23:16:54,592 : DEBUG : diff parser end
+2022-08-10 23:16:56,916 : DEBUG : diff parser start
+2022-08-10 23:16:56,923 : DEBUG : line_lengths old: 6; new: 6
+2022-08-10 23:16:56,923 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-08-10 23:16:56,923 : DEBUG : copy old[1:5] new[1:2]
+2022-08-10 23:16:56,923 : DEBUG : parse_part from 3 to 6 (to 5 in part parser)
+2022-08-10 23:16:56,923 : DEBUG : -> code[replace] old[6:6] new[6:6]
+2022-08-10 23:16:56,923 : DEBUG : diff parser end
+2022-08-10 23:17:02,050 : DEBUG : diff parser start
+2022-08-10 23:17:02,051 : DEBUG : line_lengths old: 6; new: 6
+2022-08-10 23:17:02,051 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-08-10 23:17:02,051 : DEBUG : copy old[1:5] new[1:2]
+2022-08-10 23:17:02,051 : DEBUG : parse_part from 3 to 6 (to 5 in part parser)
+2022-08-10 23:17:02,051 : DEBUG : -> code[replace] old[6:6] new[6:6]
+2022-08-10 23:17:02,051 : DEBUG : diff parser end
