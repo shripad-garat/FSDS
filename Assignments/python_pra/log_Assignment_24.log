@@ -1,0 +1,92 @@
+2022-08-11 23:13:46,292 : INFO : Question 1: Create a function that takes an integer and returns a list from 1 to the given number, where: If the number can be divided evenly by 4, amplify it by 10 (i.e. return 10 times the number). If the number cannot be divided evenly by 4, simply return the number.
+2022-08-11 23:13:46,292 : INFO : Start executing Question 1
+2022-08-11 23:26:07,965 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-08-11 23:26:08,065 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-08-11 23:26:11,871 : DEBUG : diff parser start
+2022-08-11 23:26:11,871 : DEBUG : line_lengths old: 6; new: 6
+2022-08-11 23:26:11,881 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-08-11 23:26:11,881 : DEBUG : copy old[1:5] new[1:2]
+2022-08-11 23:26:11,881 : DEBUG : parse_part from 3 to 6 (to 5 in part parser)
+2022-08-11 23:26:11,881 : DEBUG : -> code[replace] old[6:6] new[6:6]
+2022-08-11 23:26:11,881 : DEBUG : diff parser end
+2022-08-11 23:27:38,079 : INFO : Error Occured: name 'numj' is not defined
+2022-08-11 23:27:44,934 : INFO : Error Occured: object of type 'int' has no len()
+2022-08-11 23:30:33,758 : INFO : Question 2: Create a function that takes a list of numbers and return the number thats unique.
+2022-08-11 23:30:33,758 : INFO : Start executing Question 2
+2022-08-11 23:37:23,475 : DEBUG : diff parser start
+2022-08-11 23:37:23,475 : DEBUG : line_lengths old: 6; new: 9
+2022-08-11 23:37:23,475 : DEBUG : -> code[replace] old[1:2] new[1:2]
+2022-08-11 23:37:23,482 : DEBUG : parse_part from 1 to 9 (to 8 in part parser)
+2022-08-11 23:37:23,482 : DEBUG : -> code[equal] old[3:3] new[3:3]
+2022-08-11 23:37:23,482 : DEBUG : -> code[replace] old[4:6] new[4:9]
+2022-08-11 23:37:23,482 : DEBUG : diff parser end
+2022-08-11 23:37:27,149 : DEBUG : diff parser start
+2022-08-11 23:37:27,149 : DEBUG : line_lengths old: 9; new: 9
+2022-08-11 23:37:27,149 : DEBUG : -> code[equal] old[1:8] new[1:8]
+2022-08-11 23:37:27,149 : DEBUG : copy old[1:8] new[1:2]
+2022-08-11 23:37:27,149 : DEBUG : parse_part from 3 to 9 (to 8 in part parser)
+2022-08-11 23:37:27,149 : DEBUG : -> code[replace] old[9:9] new[9:9]
+2022-08-11 23:37:27,149 : DEBUG : diff parser end
+2022-08-11 23:51:53,541 : INFO : Question 3:Your task is to create a Circle constructor that creates a circle with a radius provided by an argument. The circles constructed must have two getters getArea() (PIr^2) and getPerimeter() (2PI*r) which give both respective areas and perimeter (circumference). 
+2022-08-11 23:51:53,541 : INFO : Start executing Question 3
+2022-08-12 00:00:25,070 : DEBUG : diff parser start
+2022-08-12 00:00:25,070 : DEBUG : line_lengths old: 9; new: 6
+2022-08-12 00:00:25,070 : DEBUG : -> code[replace] old[1:9] new[1:6]
+2022-08-12 00:00:25,070 : DEBUG : parse_part from 1 to 6 (to 5 in part parser)
+2022-08-12 00:00:25,070 : DEBUG : diff parser end
+2022-08-12 00:03:43,159 : DEBUG : diff parser start
+2022-08-12 00:03:43,159 : DEBUG : line_lengths old: 6; new: 1
+2022-08-12 00:03:43,159 : DEBUG : -> code[replace] old[1:6] new[1:1]
+2022-08-12 00:03:43,159 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2022-08-12 00:03:43,159 : DEBUG : diff parser end
+2022-08-12 00:04:03,287 : DEBUG : diff parser start
+2022-08-12 00:04:03,287 : DEBUG : line_lengths old: 1; new: 2
+2022-08-12 00:04:03,287 : DEBUG : -> code[replace] old[1:1] new[1:2]
+2022-08-12 00:04:03,287 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2022-08-12 00:04:03,287 : DEBUG : diff parser end
+2022-08-12 00:04:55,592 : DEBUG : diff parser start
+2022-08-12 00:04:55,592 : DEBUG : line_lengths old: 2; new: 1
+2022-08-12 00:04:55,592 : DEBUG : -> code[replace] old[1:2] new[1:1]
+2022-08-12 00:04:55,592 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2022-08-12 00:04:55,592 : DEBUG : diff parser end
+2022-08-12 00:05:01,592 : DEBUG : diff parser start
+2022-08-12 00:05:01,595 : DEBUG : line_lengths old: 1; new: 1
+2022-08-12 00:05:01,595 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2022-08-12 00:05:01,595 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2022-08-12 00:05:01,595 : DEBUG : diff parser end
+2022-08-12 00:08:26,811 : INFO : Question 4: Create a function that takes a list of strings and return a list, sorted from shortest to longest.
+2022-08-12 00:08:26,811 : INFO : Start executing Question 4
+2022-08-12 22:21:47,875 : INFO : Question 1: Create a function that takes an integer and returns a list from 1 to the given number, where: If the number can be divided evenly by 4, amplify it by 10 (i.e. return 10 times the number). If the number cannot be divided evenly by 4, simply return the number.
+2022-08-12 22:21:47,883 : INFO : Start executing Question 1
+2022-08-12 22:21:47,939 : INFO : Question 2: Create a function that takes a list of numbers and return the number thats unique.
+2022-08-12 22:21:47,939 : INFO : Start executing Question 2
+2022-08-12 22:21:47,987 : INFO : Question 3:Your task is to create a Circle constructor that creates a circle with a radius provided by an argument. The circles constructed must have two getters getArea() (PIr^2) and getPerimeter() (2PI*r) which give both respective areas and perimeter (circumference). 
+2022-08-12 22:21:47,987 : INFO : Start executing Question 3
+2022-08-12 22:21:48,051 : INFO : Question 4: Create a function that takes a list of strings and return a list, sorted from shortest to longest.
+2022-08-12 22:21:48,051 : INFO : Start executing Question 4
+2022-08-12 22:37:22,708 : INFO : Question 1: Create a function that takes an integer and returns a list from 1 to the given number, where: If the number can be divided evenly by 4, amplify it by 10 (i.e. return 10 times the number). If the number cannot be divided evenly by 4, simply return the number.
+2022-08-12 22:37:22,708 : INFO : Start executing Question 1
+2022-08-12 22:37:22,788 : INFO : Question 2: Create a function that takes a list of numbers and return the number thats unique.
+2022-08-12 22:37:22,788 : INFO : Start executing Question 2
+2022-08-12 22:37:22,836 : INFO : Question 3:Your task is to create a Circle constructor that creates a circle with a radius provided by an argument. The circles constructed must have two getters getArea() (PIr^2) and getPerimeter() (2PI*r) which give both respective areas and perimeter (circumference). 
+2022-08-12 22:37:22,836 : INFO : Start executing Question 3
+2022-08-12 22:37:22,901 : INFO : Question 4: Create a function that takes a list of strings and return a list, sorted from shortest to longest.
+2022-08-12 22:37:22,901 : INFO : Start executing Question 4
+2022-08-12 22:37:22,949 : INFO : Question 5: Create a function that validates whether three given integers form a Pythagorean triplet. The sum of the squares of the two smallest integers must equal the square of the largest number to be validated. 
+2022-08-12 22:37:22,949 : INFO : Start executing Question 5
+2022-08-12 22:41:59,379 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-08-12 22:41:59,609 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-08-12 22:41:59,874 : DEBUG : diff parser start
+2022-08-12 22:41:59,874 : DEBUG : line_lengths old: 10; new: 10
+2022-08-12 22:41:59,874 : DEBUG : -> code[equal] old[1:9] new[1:9]
+2022-08-12 22:41:59,874 : DEBUG : copy old[1:9] new[1:2]
+2022-08-12 22:41:59,874 : DEBUG : parse_part from 3 to 10 (to 9 in part parser)
+2022-08-12 22:41:59,874 : DEBUG : -> code[replace] old[10:10] new[10:10]
+2022-08-12 22:41:59,874 : DEBUG : diff parser end
+2022-08-12 22:42:03,351 : DEBUG : diff parser start
+2022-08-12 22:42:03,351 : DEBUG : line_lengths old: 10; new: 10
+2022-08-12 22:42:03,351 : DEBUG : -> code[equal] old[1:9] new[1:9]
+2022-08-12 22:42:03,351 : DEBUG : copy old[1:9] new[1:2]
+2022-08-12 22:42:03,351 : DEBUG : parse_part from 3 to 10 (to 9 in part parser)
+2022-08-12 22:42:03,351 : DEBUG : -> code[replace] old[10:10] new[10:10]
+2022-08-12 22:42:03,351 : DEBUG : diff parser end

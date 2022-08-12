@@ -1,0 +1,82 @@
+2022-08-12 22:46:43,295 : INFO : Question 1: Create a function that takes three integer arguments (a, b, c) and returns the amount of integers which are of equal value.
+2022-08-12 22:46:43,295 : INFO : Start executing Question 1
+2022-08-12 22:56:49,089 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-08-12 22:56:49,153 : DEBUG : pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-08-12 22:56:52,492 : DEBUG : diff parser start
+2022-08-12 22:56:52,492 : DEBUG : line_lengths old: 10; new: 10
+2022-08-12 22:56:52,492 : DEBUG : -> code[equal] old[1:9] new[1:9]
+2022-08-12 22:56:52,492 : DEBUG : copy old[1:9] new[1:2]
+2022-08-12 22:56:52,499 : DEBUG : parse_part from 3 to 10 (to 9 in part parser)
+2022-08-12 22:56:52,499 : DEBUG : -> code[replace] old[10:10] new[10:10]
+2022-08-12 22:56:52,499 : DEBUG : diff parser end
+2022-08-12 22:59:23,513 : INFO : Question 2: Write a function that converts a dictionary into a list of keys-values tuples..
+2022-08-12 22:59:23,513 : INFO : Start executing Question 2
+2022-08-12 23:00:51,898 : DEBUG : diff parser start
+2022-08-12 23:00:51,898 : DEBUG : line_lengths old: 10; new: 6
+2022-08-12 23:00:51,898 : DEBUG : -> code[replace] old[1:2] new[1:2]
+2022-08-12 23:00:51,906 : DEBUG : parse_part from 1 to 6 (to 5 in part parser)
+2022-08-12 23:00:51,906 : DEBUG : -> code[equal] old[3:3] new[3:3]
+2022-08-12 23:00:51,906 : DEBUG : -> code[replace] old[4:10] new[4:6]
+2022-08-12 23:00:51,906 : DEBUG : diff parser end
+2022-08-12 23:00:55,527 : DEBUG : diff parser start
+2022-08-12 23:00:55,527 : DEBUG : line_lengths old: 6; new: 6
+2022-08-12 23:00:55,527 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-08-12 23:00:55,527 : DEBUG : copy old[1:5] new[1:2]
+2022-08-12 23:00:55,527 : DEBUG : parse_part from 3 to 6 (to 5 in part parser)
+2022-08-12 23:00:55,527 : DEBUG : -> code[replace] old[6:6] new[6:6]
+2022-08-12 23:00:55,527 : DEBUG : diff parser end
+2022-08-12 23:04:23,511 : INFO : Question 3: Write a function that creates a dictionary with each (key, value) pair being the (lower case, upper case) versions of a letter, respectively.
+2022-08-12 23:04:23,511 : INFO : Start executing Question 3
+2022-08-12 23:11:48,511 : DEBUG : diff parser start
+2022-08-12 23:11:48,511 : DEBUG : line_lengths old: 6; new: 5
+2022-08-12 23:11:48,511 : DEBUG : -> code[replace] old[1:2] new[1:2]
+2022-08-12 23:11:48,511 : DEBUG : parse_part from 1 to 5 (to 4 in part parser)
+2022-08-12 23:11:48,511 : DEBUG : -> code[equal] old[3:3] new[3:3]
+2022-08-12 23:11:48,511 : DEBUG : -> code[replace] old[4:6] new[4:5]
+2022-08-12 23:11:48,511 : DEBUG : diff parser end
+2022-08-12 23:11:50,563 : DEBUG : diff parser start
+2022-08-12 23:11:50,563 : DEBUG : line_lengths old: 5; new: 5
+2022-08-12 23:11:50,563 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-08-12 23:11:50,563 : DEBUG : copy old[1:4] new[1:2]
+2022-08-12 23:11:50,563 : DEBUG : parse_part from 3 to 5 (to 4 in part parser)
+2022-08-12 23:11:50,563 : DEBUG : -> code[replace] old[5:5] new[5:5]
+2022-08-12 23:11:50,563 : DEBUG : diff parser end
+2022-08-12 23:11:54,155 : DEBUG : diff parser start
+2022-08-12 23:11:54,155 : DEBUG : line_lengths old: 5; new: 5
+2022-08-12 23:11:54,155 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-08-12 23:11:54,163 : DEBUG : copy old[1:4] new[1:2]
+2022-08-12 23:11:54,163 : DEBUG : parse_part from 3 to 5 (to 4 in part parser)
+2022-08-12 23:11:54,163 : DEBUG : -> code[replace] old[5:5] new[5:5]
+2022-08-12 23:11:54,163 : DEBUG : diff parser end
+2022-08-12 23:16:36,276 : INFO : Question 4: Write a function, that replaces all vowels in a string with a specified vowel.
+2022-08-12 23:16:36,276 : INFO : Start executing Question 4
+2022-08-12 23:21:33,498 : DEBUG : diff parser start
+2022-08-12 23:21:33,498 : DEBUG : line_lengths old: 5; new: 6
+2022-08-12 23:21:33,498 : DEBUG : -> code[replace] old[1:2] new[1:2]
+2022-08-12 23:21:33,498 : DEBUG : parse_part from 1 to 6 (to 5 in part parser)
+2022-08-12 23:21:33,498 : DEBUG : -> code[equal] old[3:3] new[3:3]
+2022-08-12 23:21:33,498 : DEBUG : -> code[replace] old[4:5] new[4:6]
+2022-08-12 23:21:33,498 : DEBUG : diff parser end
+2022-08-12 23:21:36,173 : DEBUG : diff parser start
+2022-08-12 23:21:36,173 : DEBUG : line_lengths old: 6; new: 6
+2022-08-12 23:21:36,173 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2022-08-12 23:21:36,173 : DEBUG : copy old[1:5] new[1:2]
+2022-08-12 23:21:36,173 : DEBUG : parse_part from 3 to 6 (to 5 in part parser)
+2022-08-12 23:21:36,173 : DEBUG : -> code[replace] old[6:6] new[6:6]
+2022-08-12 23:21:36,173 : DEBUG : diff parser end
+2022-08-12 23:25:13,587 : INFO : Question 5: Create a function that takes a string as input and capitalizes a letter if its ASCII code is even and returns its lower case version if its ASCII code is odd.
+2022-08-12 23:25:13,587 : INFO : Start executing Question 5
+2022-08-12 23:27:34,707 : DEBUG : diff parser start
+2022-08-12 23:27:34,707 : DEBUG : line_lengths old: 6; new: 5
+2022-08-12 23:27:34,712 : DEBUG : -> code[replace] old[1:2] new[1:2]
+2022-08-12 23:27:34,714 : DEBUG : parse_part from 1 to 5 (to 4 in part parser)
+2022-08-12 23:27:34,714 : DEBUG : -> code[equal] old[3:3] new[3:3]
+2022-08-12 23:27:34,714 : DEBUG : -> code[replace] old[4:6] new[4:5]
+2022-08-12 23:27:34,714 : DEBUG : diff parser end
+2022-08-12 23:27:37,177 : DEBUG : diff parser start
+2022-08-12 23:27:37,177 : DEBUG : line_lengths old: 5; new: 5
+2022-08-12 23:27:37,177 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2022-08-12 23:27:37,177 : DEBUG : copy old[1:4] new[1:2]
+2022-08-12 23:27:37,184 : DEBUG : parse_part from 3 to 5 (to 4 in part parser)
+2022-08-12 23:27:37,184 : DEBUG : -> code[replace] old[5:5] new[5:5]
+2022-08-12 23:27:37,184 : DEBUG : diff parser end
